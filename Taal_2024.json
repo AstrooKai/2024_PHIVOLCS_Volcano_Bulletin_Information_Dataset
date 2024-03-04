@@ -1,6 +1,6 @@
 [
   {
-    "date": "Jan 1, 2024",
+    "observation_date": "Jan 1, 2024",
     "observation_period": "5AM - 5AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -8,27 +8,27 @@
       "volcanic_tremors_duration": "2-3 minutes"
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Dec 28, 2023",
-      "count": {
+      "observation_date": "Dec 28, 2023",
+      "counts": {
         "metric_tons": "8,931",
         "kilograms": 8931000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": "1,200",
-        "feet": 3937.2000000000003
+        "feet": 3937
       },
       "drift_direction": [
         "Southwest"
@@ -45,7 +45,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22039-taal-volcano-summary-of-24hr-observation-01-january-2024-5-00-am"
   },
   {
-    "date": "Jan 2, 2024",
+    "observation_date": "Jan 2, 2024",
     "observation_period": "5AM - 5AM",
     "seismicity": {
       "volcanic_earthquakes": 2,
@@ -53,27 +53,27 @@
       "volcanic_tremors_duration": "2 minutes"
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Dec 28, 2023",
-      "count": {
+      "observation_date": "Dec 28, 2023",
+      "counts": {
         "metric_tons": "8,931",
         "kilograms": 8931000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Voluminous",
+    "plume_emission": {
+      "intensity": "Voluminous",
       "height": {
         "meters": "2,400",
-        "feet": 7874.400000000001
+        "feet": 7874
       },
       "drift_direction": [
         "Southwest"
@@ -90,7 +90,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22055-taal-volcano-summary-of-24hr-observation-02-january-2024-5-00-am"
   },
   {
-    "date": "Jan 3, 2024",
+    "observation_date": "Jan 3, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -98,27 +98,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 2, 2024",
-      "count": {
+      "observation_date": "Jan 2, 2024",
+      "counts": {
         "metric_tons": "11,434",
         "kilograms": 11434000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": "1,500",
-        "feet": 4921.5
+        "feet": 4922
       },
       "drift_direction": [
         "Southwest"
@@ -135,7 +135,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22073-taal-volcano-summary-of-24hr-observation-03-january-2024-12-00-am"
   },
   {
-    "date": "Jan 4, 2024",
+    "observation_date": "Jan 4, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -143,27 +143,27 @@
       "volcanic_tremors_duration": "2-3 minutes"
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 2, 2024",
-      "count": {
+      "observation_date": "Jan 2, 2024",
+      "counts": {
         "metric_tons": "11,434",
         "kilograms": 11434000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Voluminous",
+    "plume_emission": {
+      "intensity": "Voluminous",
       "height": {
         "meters": "2,400",
-        "feet": 7874.400000000001
+        "feet": 7874
       },
       "drift_direction": [
         "South-Southwest"
@@ -180,7 +180,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22093-taal-volcano-summary-of-24hr-observation-04-january-2024-12-00-am"
   },
   {
-    "date": "Jan 5, 2024",
+    "observation_date": "Jan 5, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -188,27 +188,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 4, 2024",
-      "count": {
+      "observation_date": "Jan 4, 2024",
+      "counts": {
         "metric_tons": "12,685",
         "kilograms": 12685000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "Southwest"
@@ -225,7 +225,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22109-taal-volcano-summary-of-24hr-observation-05-january-2024-12-00-am"
   },
   {
-    "date": "Jan 6, 2024",
+    "observation_date": "Jan 6, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -233,27 +233,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 4, 2024",
-      "count": {
+      "observation_date": "Jan 4, 2024",
+      "counts": {
         "metric_tons": "12,685",
         "kilograms": 12685000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": "1,200",
-        "feet": 3937.2000000000003
+        "feet": 3937
       },
       "drift_direction": [
         "Southwest"
@@ -270,7 +270,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22129-taal-volcano-summary-of-24hr-observation-06-january-2024-12-00-am"
   },
   {
-    "date": "Jan 7, 2024",
+    "observation_date": "Jan 7, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -278,27 +278,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 4, 2024",
-      "count": {
+      "observation_date": "Jan 4, 2024",
+      "counts": {
         "metric_tons": "12,685",
         "kilograms": 12685000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": 600,
-        "feet": 1968.6000000000001
+        "feet": 1969
       },
       "drift_direction": [
         "Southwest"
@@ -315,7 +315,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22145-taal-volcano-summary-of-24hr-observation-07-january-2024-12-00-am"
   },
   {
-    "date": "Jan 8, 2024",
+    "observation_date": "Jan 8, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -323,27 +323,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 4, 2024",
-      "count": {
+      "observation_date": "Jan 4, 2024",
+      "counts": {
         "metric_tons": "12,685",
         "kilograms": 12685000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": 600,
-        "feet": 1968.6000000000001
+        "feet": 1969
       },
       "drift_direction": [
         "Southwest"
@@ -360,7 +360,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22161-taal-volcano-summary-of-24hr-observation-08-january-2024-12-00-am"
   },
   {
-    "date": "Jan 9, 2024",
+    "observation_date": "Jan 9, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -368,27 +368,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 8, 2024",
-      "count": {
+      "observation_date": "Jan 8, 2024",
+      "counts": {
         "metric_tons": "10,933",
         "kilograms": 10933000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": "1,100",
-        "feet": 3609.1000000000004
+        "feet": 3609
       },
       "drift_direction": [
         "Southwest"
@@ -405,7 +405,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22181-taal-volcano-summary-of-24hr-observation-09-january-2024-12-00-am"
   },
   {
-    "date": "Jan 10, 2024",
+    "observation_date": "Jan 10, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -413,27 +413,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 8, 2024",
-      "count": {
+      "observation_date": "Jan 8, 2024",
+      "counts": {
         "metric_tons": "10,933",
         "kilograms": 10933000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": "1,200",
-        "feet": 3937.2000000000003
+        "feet": 3937
       },
       "drift_direction": [
         "Southwest"
@@ -450,7 +450,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22197-taal-volcano-summary-of-24hr-observation-10-january-2024-12-00-am"
   },
   {
-    "date": "Jan 11, 2024",
+    "observation_date": "Jan 11, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -458,27 +458,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 8, 2024",
-      "count": {
+      "observation_date": "Jan 8, 2024",
+      "counts": {
         "metric_tons": "10,933",
         "kilograms": 10933000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Voluminous",
+    "plume_emission": {
+      "intensity": "Voluminous",
       "height": {
         "meters": "2,400",
-        "feet": 7874.400000000001
+        "feet": 7874
       },
       "drift_direction": [
         "Southwest",
@@ -496,7 +496,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22213-taal-volcano-summary-of-24hr-observation-11-january-2024-12-00-am"
   },
   {
-    "date": "Jan 12, 2024",
+    "observation_date": "Jan 12, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -504,27 +504,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 11, 2024",
-      "count": {
+      "observation_date": "Jan 11, 2024",
+      "counts": {
         "metric_tons": "10,977",
         "kilograms": 10977000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": "1,200",
-        "feet": 3937.2000000000003
+        "feet": 3937
       },
       "drift_direction": [
         "Southwest"
@@ -541,7 +541,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22235-taal-volcano-summary-of-24hr-observation-12-january-2024-12-00-am"
   },
   {
-    "date": "Jan 13, 2024",
+    "observation_date": "Jan 13, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -549,27 +549,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 11, 2024",
-      "count": {
+      "observation_date": "Jan 11, 2024",
+      "counts": {
         "metric_tons": "10,977",
         "kilograms": 10977000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "Southwest"
@@ -586,7 +586,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22253-taal-volcano-summary-of-24hr-observation-13-january-2024-12-00-am"
   },
   {
-    "date": "Jan 14, 2024",
+    "observation_date": "Jan 14, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -594,27 +594,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 11, 2024",
-      "count": {
+      "observation_date": "Jan 11, 2024",
+      "counts": {
         "metric_tons": "10,977",
         "kilograms": 10977000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": 600,
-        "feet": 1968.6000000000001
+        "feet": 1969
       },
       "drift_direction": [
         "Southwest"
@@ -631,7 +631,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22269-taal-volcano-summary-of-24hr-observation-14-january-2024-12-00-am"
   },
   {
-    "date": "Jan 15, 2024",
+    "observation_date": "Jan 15, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -639,27 +639,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 11, 2024",
-      "count": {
+      "observation_date": "Jan 11, 2024",
+      "counts": {
         "metric_tons": "10,977",
         "kilograms": 10977000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "Southwest"
@@ -676,7 +676,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22285-taal-volcano-summary-of-24hr-observation-15-january-2024-12-00-am"
   },
   {
-    "date": "Jan 16, 2024",
+    "observation_date": "Jan 16, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -684,27 +684,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 15, 2024",
-      "count": {
+      "observation_date": "Jan 15, 2024",
+      "counts": {
         "metric_tons": "8,109",
         "kilograms": 8109000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": 600,
-        "feet": 1968.6000000000001
+        "feet": 1969
       },
       "drift_direction": [
         "Southwest"
@@ -721,7 +721,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22311-taal-volcano-summary-of-24hr-observation-16-january-2024-12-00-am"
   },
   {
-    "date": "Jan 17, 2024",
+    "observation_date": "Jan 17, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -729,27 +729,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 15, 2024",
-      "count": {
+      "observation_date": "Jan 15, 2024",
+      "counts": {
         "metric_tons": "8,109",
         "kilograms": 8109000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": "1,200",
-        "feet": 3937.2000000000003
+        "feet": 3937
       },
       "drift_direction": [
         "Southwest"
@@ -766,7 +766,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22329-taal-volcano-summary-of-24hr-observation-17-january-2024-12-00-am"
   },
   {
-    "date": "Jan 18, 2024",
+    "observation_date": "Jan 18, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -774,27 +774,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 15, 2024",
-      "count": {
+      "observation_date": "Jan 15, 2024",
+      "counts": {
         "metric_tons": "8,109",
         "kilograms": 8109000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": 600,
-        "feet": 1968.6000000000001
+        "feet": 1969
       },
       "drift_direction": [
         "Southwest"
@@ -811,7 +811,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22347-taal-volcano-summary-of-24hr-observation-18-january-2024-12-00-am"
   },
   {
-    "date": "Jan 19, 2024",
+    "observation_date": "Jan 19, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -819,27 +819,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
+      "observation_date": "Jan 18, 2024",
+      "counts": {
         "metric_tons": "12,063",
         "kilograms": 12063000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "Southwest"
@@ -856,7 +856,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22373-taal-volcano-summary-of-24hr-observation-19-january-2024-12-00-am"
   },
   {
-    "date": "Jan 20, 2024",
+    "observation_date": "Jan 20, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -864,27 +864,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
+      "observation_date": "Jan 18, 2024",
+      "counts": {
         "metric_tons": "12,063",
         "kilograms": 12063000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "Southwest"
@@ -901,7 +901,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22399-taal-volcano-summary-of-24hr-observation-20-january-2024-12-00-am"
   },
   {
-    "date": "Jan 21, 2024",
+    "observation_date": "Jan 21, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -909,27 +909,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
+      "observation_date": "Jan 18, 2024",
+      "counts": {
         "metric_tons": "12,063",
         "kilograms": 12063000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": "1,200",
-        "feet": 3937.2000000000003
+        "feet": 3937
       },
       "drift_direction": [
         "Southwest"
@@ -946,7 +946,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22415-taal-volcano-summary-of-24hr-observation-21-january-2024-12-00-am"
   },
   {
-    "date": "Jan 22, 2024",
+    "observation_date": "Jan 22, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 1,
@@ -954,27 +954,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
+      "observation_date": "Jan 18, 2024",
+      "counts": {
         "metric_tons": "12,063",
         "kilograms": 12063000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "Southwest"
@@ -991,7 +991,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22431-taal-volcano-summary-of-24hr-observation-22-january-2024-12-00-am"
   },
   {
-    "date": "Jan 23, 2024",
+    "observation_date": "Jan 23, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -999,27 +999,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 22, 2024",
-      "count": {
+      "observation_date": "Jan 22, 2024",
+      "counts": {
         "metric_tons": "12,591",
         "kilograms": 12591000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Voluminous",
+    "plume_emission": {
+      "intensity": "Voluminous",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "Southwest"
@@ -1036,7 +1036,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22449-taal-volcano-summary-of-24hr-observation-23-january-2024-12-00-am"
   },
   {
-    "date": "Jan 24, 2024",
+    "observation_date": "Jan 24, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 1,
@@ -1044,27 +1044,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 22, 2024",
-      "count": {
+      "observation_date": "Jan 22, 2024",
+      "counts": {
         "metric_tons": "12,591",
         "kilograms": 12591000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Voluminous",
+    "plume_emission": {
+      "intensity": "Voluminous",
       "height": {
         "meters": "1,200",
-        "feet": 3937.2000000000003
+        "feet": 3937
       },
       "drift_direction": [
         "Southwest"
@@ -1081,7 +1081,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22467-taal-volcano-summary-of-24hr-observation-24-january-2024-12-00-am"
   },
   {
-    "date": "Jan 25, 2024",
+    "observation_date": "Jan 25, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -1089,27 +1089,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 22, 2024",
-      "count": {
+      "observation_date": "Jan 22, 2024",
+      "counts": {
         "metric_tons": "12,591",
         "kilograms": 12591000
       },
       "main_crater_lake_upwelling": "Upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "Southwest"
@@ -1126,7 +1126,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22491-taal-volcano-summary-of-24hr-observation-25-january-2024-12-00-am"
   },
   {
-    "date": "Jan 26, 2024",
+    "observation_date": "Jan 26, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -1134,27 +1134,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 25, 2024",
-      "count": {
+      "observation_date": "Jan 25, 2024",
+      "counts": {
         "metric_tons": "15,145",
         "kilograms": 15145000
       },
       "main_crater_lake_upwelling": "Pronounced upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": "1,200",
-        "feet": 3937.2000000000003
+        "feet": 3937
       },
       "drift_direction": [
         "Southwest"
@@ -1171,7 +1171,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22511-taal-volcano-summary-of-24hr-observation-26-january-2024-12-00-am"
   },
   {
-    "date": "Jan 27, 2024",
+    "observation_date": "Jan 27, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -1179,27 +1179,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 25, 2024",
-      "count": {
+      "observation_date": "Jan 25, 2024",
+      "counts": {
         "metric_tons": "15,145",
         "kilograms": 15145000
       },
       "main_crater_lake_upwelling": "None"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "Southwest"
@@ -1216,7 +1216,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22533-taal-volcano-summary-of-24hr-observation-27-january-2024-12-00-am"
   },
   {
-    "date": "Jan 28, 2024",
+    "observation_date": "Jan 28, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -1224,27 +1224,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 25, 2024",
-      "count": {
+      "observation_date": "Jan 25, 2024",
+      "counts": {
         "metric_tons": "15,145",
         "kilograms": 15145000
       },
       "main_crater_lake_upwelling": "Pronounced upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "Southwest"
@@ -1261,7 +1261,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22549-taal-volcano-summary-of-24hr-observation-28-january-2024-12-00-am"
   },
   {
-    "date": "Jan 29, 2024",
+    "observation_date": "Jan 29, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -1269,27 +1269,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 25, 2024",
-      "count": {
+      "observation_date": "Jan 25, 2024",
+      "counts": {
         "metric_tons": "15,145",
         "kilograms": 15145000
       },
       "main_crater_lake_upwelling": "Pronounced upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "Southwest"
@@ -1306,7 +1306,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22567-taal-volcano-summary-of-24hr-observation-29-january-2024-12-00-am"
   },
   {
-    "date": "Jan 30, 2024",
+    "observation_date": "Jan 30, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -1314,27 +1314,27 @@
       "volcanic_tremors_duration": "5 minutes"
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 29, 2024",
-      "count": {
+      "observation_date": "Jan 29, 2024",
+      "counts": {
         "metric_tons": "12,669",
         "kilograms": 12669000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "Southwest"
@@ -1351,7 +1351,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22585-taal-volcano-summary-of-24hr-observation-30-january-2024-12-00-am"
   },
   {
-    "date": "Jan 31, 2024",
+    "observation_date": "Jan 31, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -1359,27 +1359,27 @@
       "volcanic_tremors_duration": "3 minutes"
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 29, 2024",
-      "count": {
+      "observation_date": "Jan 29, 2024",
+      "counts": {
         "metric_tons": "12,669",
         "kilograms": 12669000
       },
       "main_crater_lake_upwelling": "Pronounced upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": "1,200",
-        "feet": 3937.2000000000003
+        "feet": 3937
       },
       "drift_direction": [
         "Southwest"
@@ -1396,7 +1396,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22603-taal-volcano-summary-of-24hr-observation-31-january-2024-12-00-am"
   },
   {
-    "date": "Feb 1, 2024",
+    "observation_date": "Feb 1, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -1404,27 +1404,27 @@
       "volcanic_tremors_duration": "8 minutes"
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Jan 29, 2024",
-      "count": {
+      "observation_date": "Jan 29, 2024",
+      "counts": {
         "metric_tons": "12,669",
         "kilograms": 12669000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "Southwest"
@@ -1441,7 +1441,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22623-taal-volcano-summary-of-24hr-observation-01-february-2024-12-00-am"
   },
   {
-    "date": "Feb 2, 2024",
+    "observation_date": "Feb 2, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -1449,27 +1449,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 1, 2024",
-      "count": {
+      "observation_date": "Feb 1, 2024",
+      "counts": {
         "metric_tons": "10,848",
         "kilograms": 10848000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": "1,500",
-        "feet": 4921.5
+        "feet": 4922
       },
       "drift_direction": [
         "Southwest"
@@ -1486,7 +1486,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22645-taal-volcano-summary-of-24hr-observation-02-february-2024-12-00-am"
   },
   {
-    "date": "Feb 3, 2024",
+    "observation_date": "Feb 3, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -1494,27 +1494,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 1, 2024",
-      "count": {
+      "observation_date": "Feb 1, 2024",
+      "counts": {
         "metric_tons": "10,848",
         "kilograms": 10848000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "Southwest"
@@ -1531,7 +1531,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22671-taal-volcano-summary-of-24hr-observation-03-february-2024-12-00-am"
   },
   {
-    "date": "Feb 4, 2024",
+    "observation_date": "Feb 4, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -1539,27 +1539,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 1, 2024",
-      "count": {
+      "observation_date": "Feb 1, 2024",
+      "counts": {
         "metric_tons": "10,848",
         "kilograms": 10848000
       },
       "main_crater_lake_upwelling": "Pronounced upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Voluminous",
+    "plume_emission": {
+      "intensity": "Voluminous",
       "height": {
         "meters": "2,100",
-        "feet": 6890.1
+        "feet": 6890
       },
       "drift_direction": [
         "Southwest"
@@ -1576,7 +1576,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22673-taal-volcano-summary-of-24hr-observation-04-february-2024-12-00-am"
   },
   {
-    "date": "Feb 5, 2024",
+    "observation_date": "Feb 5, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -1584,27 +1584,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 1, 2024",
-      "count": {
+      "observation_date": "Feb 1, 2024",
+      "counts": {
         "metric_tons": "10,848",
         "kilograms": 10848000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": "1,200",
-        "feet": 3937.2000000000003
+        "feet": 3937
       },
       "drift_direction": [
         "Southwest"
@@ -1621,7 +1621,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22703-taal-volcano-summary-of-24hr-observation-05-february-2024-12-00-am"
   },
   {
-    "date": "Feb 6, 2024",
+    "observation_date": "Feb 6, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -1629,27 +1629,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 5, 2024",
-      "count": {
+      "observation_date": "Feb 5, 2024",
+      "counts": {
         "metric_tons": "6,911",
         "kilograms": 6911000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": "1,200",
-        "feet": 3937.2000000000003
+        "feet": 3937
       },
       "drift_direction": [
         "Southwest"
@@ -1666,7 +1666,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22721-taal-volcano-summary-of-24hr-observation-06-february-2024-12-00-am"
   },
   {
-    "date": "Feb 7, 2024",
+    "observation_date": "Feb 7, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -1674,27 +1674,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 5, 2024",
-      "count": {
+      "observation_date": "Feb 5, 2024",
+      "counts": {
         "metric_tons": "6,911",
         "kilograms": 6911000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "Southwest"
@@ -1711,7 +1711,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22737-taal-volcano-summary-of-24hr-observation-07-february-2024-12-00-am"
   },
   {
-    "date": "Feb 8, 2024",
+    "observation_date": "Feb 8, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -1719,27 +1719,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 5, 2024",
-      "count": {
+      "observation_date": "Feb 5, 2024",
+      "counts": {
         "metric_tons": "6,911",
         "kilograms": 6911000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "Southwest"
@@ -1756,7 +1756,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22761-taal-volcano-summary-of-24hr-observation-08-february-2024-12-00-am"
   },
   {
-    "date": "Feb 9, 2024",
+    "observation_date": "Feb 9, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 1,
@@ -1764,27 +1764,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 8, 2024",
-      "count": {
+      "observation_date": "Feb 8, 2024",
+      "counts": {
         "metric_tons": "5,459",
         "kilograms": 5459000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": "1,200",
-        "feet": 3937.2000000000003
+        "feet": 3937
       },
       "drift_direction": [
         "Southwest"
@@ -1801,7 +1801,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22779-taal-volcano-summary-of-24hr-observation-09-february-2024-12-00-am"
   },
   {
-    "date": "Feb 10, 2024",
+    "observation_date": "Feb 10, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -1809,27 +1809,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 8, 2024",
-      "count": {
+      "observation_date": "Feb 8, 2024",
+      "counts": {
         "metric_tons": "5,459",
         "kilograms": 5459000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": "1,200",
-        "feet": 3937.2000000000003
+        "feet": 3937
       },
       "drift_direction": [
         "Southwest"
@@ -1846,7 +1846,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22795-taal-volcano-summary-of-24hr-observation-10-february-2024-12-00-am"
   },
   {
-    "date": "Feb 11, 2024",
+    "observation_date": "Feb 11, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -1854,27 +1854,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 8, 2024",
-      "count": {
+      "observation_date": "Feb 8, 2024",
+      "counts": {
         "metric_tons": "5,459",
         "kilograms": 5459000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "Southwest"
@@ -1891,7 +1891,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22811-taal-volcano-summary-of-24hr-observation-11-february-2024-12-00-am"
   },
   {
-    "date": "Feb 12, 2024",
+    "observation_date": "Feb 12, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -1899,27 +1899,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 8, 2024",
-      "count": {
+      "observation_date": "Feb 8, 2024",
+      "counts": {
         "metric_tons": "5,459",
         "kilograms": 5459000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": 600,
-        "feet": 1968.6000000000001
+        "feet": 1969
       },
       "drift_direction": [
         "West-Southwest"
@@ -1936,7 +1936,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22827-taal-volcano-summary-of-24hr-observation-12-february-2024-12-00-am"
   },
   {
-    "date": "Feb 13, 2024",
+    "observation_date": "Feb 13, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -1944,27 +1944,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 12, 2024",
-      "count": {
+      "observation_date": "Feb 12, 2024",
+      "counts": {
         "metric_tons": "9,757",
         "kilograms": 9757000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": 300,
-        "feet": 984.3000000000001
+        "feet": 984
       },
       "drift_direction": [
         "Southwest"
@@ -1981,7 +1981,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22847-taal-volcano-summary-of-24hr-observation-13-february-2024-12-00-am"
   },
   {
-    "date": "Feb 14, 2024",
+    "observation_date": "Feb 14, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -1989,27 +1989,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 12, 2024",
-      "count": {
+      "observation_date": "Feb 12, 2024",
+      "counts": {
         "metric_tons": "9,757",
         "kilograms": 9757000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Very Weak",
+    "plume_emission": {
+      "intensity": "Very Weak",
       "height": {
         "meters": 300,
-        "feet": 984.3000000000001
+        "feet": 984
       },
       "drift_direction": [
         "Southwest"
@@ -2026,7 +2026,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22867-taal-volcano-summary-of-24hr-observation-14-february-2024-12-00-am"
   },
   {
-    "date": "Feb 15, 2024",
+    "observation_date": "Feb 15, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -2034,27 +2034,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 12, 2024",
-      "count": {
+      "observation_date": "Feb 12, 2024",
+      "counts": {
         "metric_tons": "9,757",
         "kilograms": 9757000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Voluminous",
+    "plume_emission": {
+      "intensity": "Voluminous",
       "height": {
         "meters": "1,200",
-        "feet": 3937.2000000000003
+        "feet": 3937
       },
       "drift_direction": [
         "Southwest"
@@ -2071,7 +2071,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22885-taal-volcano-summary-of-24hr-observation-15-february-2024-12-00-am"
   },
   {
-    "date": "Feb 16, 2024",
+    "observation_date": "Feb 16, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -2079,27 +2079,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 15, 2024",
-      "count": {
+      "observation_date": "Feb 15, 2024",
+      "counts": {
         "metric_tons": "10,331",
         "kilograms": 10331000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": "1,500",
-        "feet": 4921.5
+        "feet": 4922
       },
       "drift_direction": [
         "Southwest"
@@ -2116,7 +2116,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22905-taal-volcano-summary-of-24hr-observation-16-february-2024-12-00-am"
   },
   {
-    "date": "Feb 17, 2024",
+    "observation_date": "Feb 17, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -2124,27 +2124,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 15, 2024",
-      "count": {
+      "observation_date": "Feb 15, 2024",
+      "counts": {
         "metric_tons": "10,331",
         "kilograms": 10331000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": "1,200",
-        "feet": 3937.2000000000003
+        "feet": 3937
       },
       "drift_direction": [
         "Southwest"
@@ -2161,7 +2161,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22927-taal-volcano-summary-of-24hr-observation-17-february-2024-12-00-am"
   },
   {
-    "date": "Feb 18, 2024",
+    "observation_date": "Feb 18, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -2169,27 +2169,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 15, 2024",
-      "count": {
+      "observation_date": "Feb 15, 2024",
+      "counts": {
         "metric_tons": "10,331",
         "kilograms": 10331000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": 600,
-        "feet": 1968.6000000000001
+        "feet": 1969
       },
       "drift_direction": [
         "West-Southwest"
@@ -2206,7 +2206,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22943-taal-volcano-summary-of-24hr-observation-18-february-2024-12-00-am"
   },
   {
-    "date": "Feb 19, 2024",
+    "observation_date": "Feb 19, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -2214,27 +2214,27 @@
       "volcanic_tremors_duration": "30 minutes"
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 15, 2024",
-      "count": {
+      "observation_date": "Feb 15, 2024",
+      "counts": {
         "metric_tons": "10,331",
         "kilograms": 10331000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": "1,200",
-        "feet": 3937.2000000000003
+        "feet": 3937
       },
       "drift_direction": [
         "Southwest"
@@ -2251,7 +2251,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22959-taal-volcano-summary-of-24hr-observation-19-february-2024-12-00-am"
   },
   {
-    "date": "Feb 20, 2024",
+    "observation_date": "Feb 20, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -2259,27 +2259,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Oct 3, 2023",
+      "observation_date": "Oct 3, 2023",
       "acidity": 0.4,
       "temperature": {
         "celcius": 74.3,
-        "farenheit": 165.74,
-        "kelvin": 347.45
+        "fahrenheit": 165.74,
+        "kelvin": 347
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 19, 2024",
-      "count": {
+      "observation_date": "Feb 19, 2024",
+      "counts": {
         "metric_tons": "14,221",
         "kilograms": 14221000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Voluminous",
+    "plume_emission": {
+      "intensity": "Voluminous",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "West",
@@ -2297,7 +2297,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/22985-taal-volcano-summary-of-24hr-observation-20-february-2024-12-00-am"
   },
   {
-    "date": "Feb 21, 2024",
+    "observation_date": "Feb 21, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -2305,27 +2305,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Feb 20, 2024",
+      "observation_date": "Feb 20, 2024",
       "acidity": 0.2,
       "temperature": {
         "celcius": 72.7,
-        "farenheit": 162.86,
-        "kelvin": 345.84999999999997
+        "fahrenheit": 162.86,
+        "kelvin": 346
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 19, 2024",
-      "count": {
+      "observation_date": "Feb 19, 2024",
+      "counts": {
         "metric_tons": "14,221",
         "kilograms": 14221000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Voluminous",
+    "plume_emission": {
+      "intensity": "Voluminous",
       "height": {
         "meters": "1,200",
-        "feet": 3937.2000000000003
+        "feet": 3937
       },
       "drift_direction": [
         "Southwest"
@@ -2342,7 +2342,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23007-taal-volcano-summary-of-24hr-observation-21-february-2024-12-00-am"
   },
   {
-    "date": "Feb 22, 2024",
+    "observation_date": "Feb 22, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -2350,27 +2350,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Feb 20, 2024",
+      "observation_date": "Feb 20, 2024",
       "acidity": 0.2,
       "temperature": {
         "celcius": 72.7,
-        "farenheit": 162.86,
-        "kelvin": 345.84999999999997
+        "fahrenheit": 162.86,
+        "kelvin": 346
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 21, 2024",
-      "count": {
+      "observation_date": "Feb 21, 2024",
+      "counts": {
         "metric_tons": "9,510",
         "kilograms": 9510000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": "1,200",
-        "feet": 3937.2000000000003
+        "feet": 3937
       },
       "drift_direction": [
         "Southwest"
@@ -2387,7 +2387,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23023-taal-volcano-summary-of-24hr-observation-22-february-2024-12-00-am"
   },
   {
-    "date": "Feb 23, 2024",
+    "observation_date": "Feb 23, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -2395,27 +2395,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Feb 20, 2024",
+      "observation_date": "Feb 20, 2024",
       "acidity": 0.2,
       "temperature": {
         "celcius": 72.7,
-        "farenheit": 162.86,
-        "kelvin": 345.84999999999997
+        "fahrenheit": 162.86,
+        "kelvin": 346
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 21, 2024",
-      "count": {
+      "observation_date": "Feb 21, 2024",
+      "counts": {
         "metric_tons": "9,510",
         "kilograms": 9510000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Voluminous",
+    "plume_emission": {
+      "intensity": "Voluminous",
       "height": {
         "meters": "1,200",
-        "feet": 3937.2000000000003
+        "feet": 3937
       },
       "drift_direction": [
         "Southwest"
@@ -2432,7 +2432,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23045-taal-volcano-summary-of-24hr-observation-23-february-2024-12-00-am"
   },
   {
-    "date": "Feb 24, 2024",
+    "observation_date": "Feb 24, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -2440,27 +2440,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Feb 20, 2024",
+      "observation_date": "Feb 20, 2024",
       "acidity": 0.2,
       "temperature": {
         "celcius": 72.7,
-        "farenheit": 162.86,
-        "kelvin": 345.84999999999997
+        "fahrenheit": 162.86,
+        "kelvin": 346
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 23, 2024",
-      "count": {
+      "observation_date": "Feb 23, 2024",
+      "counts": {
         "metric_tons": "7,519",
         "kilograms": 7519000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "Southwest"
@@ -2477,7 +2477,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23063-taal-volcano-summary-of-24hr-observation-24-february-2024-12-00-am"
   },
   {
-    "date": "Feb 25, 2024",
+    "observation_date": "Feb 25, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -2485,27 +2485,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Feb 20, 2024",
+      "observation_date": "Feb 20, 2024",
       "acidity": 0.2,
       "temperature": {
         "celcius": 72.7,
-        "farenheit": 162.86,
-        "kelvin": 345.84999999999997
+        "fahrenheit": 162.86,
+        "kelvin": 346
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 23, 2024",
-      "count": {
+      "observation_date": "Feb 23, 2024",
+      "counts": {
         "metric_tons": "7,519",
         "kilograms": 7519000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "Southwest"
@@ -2522,7 +2522,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23079-taal-volcano-summary-of-24hr-observation-25-february-2024-12-00-am"
   },
   {
-    "date": "Feb 26, 2024",
+    "observation_date": "Feb 26, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -2530,27 +2530,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Feb 20, 2024",
+      "observation_date": "Feb 20, 2024",
       "acidity": 0.2,
       "temperature": {
         "celcius": 72.7,
-        "farenheit": 162.86,
-        "kelvin": 345.84999999999997
+        "fahrenheit": 162.86,
+        "kelvin": 346
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 23, 2024",
-      "count": {
+      "observation_date": "Feb 23, 2024",
+      "counts": {
         "metric_tons": "7,519",
         "kilograms": 7519000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "Southwest"
@@ -2567,7 +2567,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23095-taal-volcano-summary-of-24hr-observation-26-february-2024-12-00-am"
   },
   {
-    "date": "Feb 27, 2024",
+    "observation_date": "Feb 27, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -2575,27 +2575,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Feb 20, 2024",
+      "observation_date": "Feb 20, 2024",
       "acidity": 0.2,
       "temperature": {
         "celcius": 72.7,
-        "farenheit": 162.86,
-        "kelvin": 345.84999999999997
+        "fahrenheit": 162.86,
+        "kelvin": 346
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 26, 2024",
-      "count": {
+      "observation_date": "Feb 26, 2024",
+      "counts": {
         "metric_tons": "5,395",
         "kilograms": 5395000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": 600,
-        "feet": 1968.6000000000001
+        "feet": 1969
       },
       "drift_direction": [
         "Southwest"
@@ -2612,7 +2612,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23115-taal-volcano-summary-of-24hr-observation-27-february-2024-12-00-am"
   },
   {
-    "date": "Feb 28, 2024",
+    "observation_date": "Feb 28, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -2620,27 +2620,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Feb 20, 2024",
+      "observation_date": "Feb 20, 2024",
       "acidity": 0.2,
       "temperature": {
         "celcius": 72.7,
-        "farenheit": 162.86,
-        "kelvin": 345.84999999999997
+        "fahrenheit": 162.86,
+        "kelvin": 346
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 26, 2024",
-      "count": {
+      "observation_date": "Feb 26, 2024",
+      "counts": {
         "metric_tons": "5,395",
         "kilograms": 5395000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": 600,
-        "feet": 1968.6000000000001
+        "feet": 1969
       },
       "drift_direction": [
         "Southwest"
@@ -2657,7 +2657,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23131-taal-volcano-summary-of-24hr-observation-28-february-2024-12-00-am"
   },
   {
-    "date": "Feb 29, 2024",
+    "observation_date": "Feb 29, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -2665,27 +2665,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Feb 20, 2024",
+      "observation_date": "Feb 20, 2024",
       "acidity": 0.2,
       "temperature": {
         "celcius": 72.7,
-        "farenheit": 162.86,
-        "kelvin": 345.84999999999997
+        "fahrenheit": 162.86,
+        "kelvin": 346
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 26, 2024",
-      "count": {
+      "observation_date": "Feb 26, 2024",
+      "counts": {
         "metric_tons": "5,395",
         "kilograms": 5395000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "Southwest"
@@ -2702,7 +2702,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23147-taal-volcano-summary-of-24hr-observation-29-february-2024-12-00-am"
   },
   {
-    "date": "Mar 1, 2024",
+    "observation_date": "Mar 1, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -2710,27 +2710,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Feb 20, 2024",
+      "observation_date": "Feb 20, 2024",
       "acidity": 0.2,
       "temperature": {
         "celcius": 72.7,
-        "farenheit": 162.86,
-        "kelvin": 345.84999999999997
+        "fahrenheit": 162.86,
+        "kelvin": 346
       }
     },
     "sulfur_dioxide": {
-      "date": "Feb 29, 2024",
-      "count": {
+      "observation_date": "Feb 29, 2024",
+      "counts": {
         "metric_tons": "14,558",
         "kilograms": 14558000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "Southwest"
@@ -2747,7 +2747,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23175-taal-volcano-summary-of-24hr-observation-01-march-2024-12-00-am"
   },
   {
-    "date": "Mar 2, 2024",
+    "observation_date": "Mar 2, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -2755,27 +2755,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Feb 20, 2024",
+      "observation_date": "Feb 20, 2024",
       "acidity": 0.2,
       "temperature": {
         "celcius": 72.7,
-        "farenheit": 162.86,
-        "kelvin": 345.84999999999997
+        "fahrenheit": 162.86,
+        "kelvin": 346
       }
     },
     "sulfur_dioxide": {
-      "date": "Mar 1, 2024",
-      "count": {
+      "observation_date": "Mar 1, 2024",
+      "counts": {
         "metric_tons": "11,448",
         "kilograms": 11448000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "Southwest"
@@ -2792,7 +2792,7 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23193-taal-volcano-summary-of-24hr-observation-02-march-2024-12-00-am"
   },
   {
-    "date": "Mar 3, 2024",
+    "observation_date": "Mar 3, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 0,
@@ -2800,27 +2800,27 @@
       "volcanic_tremors_duration": null
     },
     "main_crater_lake": {
-      "date": "Feb 20, 2024",
+      "observation_date": "Feb 20, 2024",
       "acidity": 0.2,
       "temperature": {
         "celcius": 72.7,
-        "farenheit": 162.86,
-        "kelvin": 345.84999999999997
+        "fahrenheit": 162.86,
+        "kelvin": 346
       }
     },
     "sulfur_dioxide": {
-      "date": "Mar 1, 2024",
-      "count": {
+      "observation_date": "Mar 1, 2024",
+      "counts": {
         "metric_tons": "11,448",
         "kilograms": 11448000
       },
       "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 900,
-        "feet": 2952.9
+        "feet": 2953
       },
       "drift_direction": [
         "Southwest"
@@ -2835,5 +2835,50 @@
       "remarks": "Low-level unrest"
     },
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23209-taal-volcano-summary-of-24hr-observation-03-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 4, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 0,
+      "volcanic_tremors": 0,
+      "volcanic_tremors_duration": null
+    },
+    "main_crater_lake": {
+      "observation_date": "Feb 20, 2024",
+      "acidity": 0.2,
+      "temperature": {
+        "celcius": 72.7,
+        "fahrenheit": 162.86,
+        "kelvin": 346
+      }
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 1, 2024",
+      "counts": {
+        "metric_tons": "11,448",
+        "kilograms": 11448000
+      },
+      "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids"
+    },
+    "plume_emission": {
+      "intensity": "Moderate",
+      "height": {
+        "meters": "1,200",
+        "feet": 3937
+      },
+      "drift_direction": [
+        "Southwest"
+      ]
+    },
+    "ground_deformation": {
+      "taal_caldera": "Long-term deflation",
+      "taal_volcano_island": "Short-term inflation of the general northern and southeastern flanks"
+    },
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23225-taal-volcano-summary-of-24hr-observation-04-march-2024-12-00-am"
   }
 ]

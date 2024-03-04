@@ -1,25 +1,26 @@
 [
   {
-    "date": "Jan 1, 2024",
+    "observation_date": "Jan 1, 2024",
     "observation_period": "5AM - 5AM",
     "seismicity": {
       "volcanic_earthquakes": 18,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Dec 1, 2023",
-      "count": {
-        "metric_tons": 102,
-        "kilograms": 102000
+      "observation_date": "Dec 1, 2023",
+      "counts": {
+        "metric_tons": 102
       }
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": null,
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -29,24 +30,23 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22027-bulusan-volcano-summary-of-24hr-observation-01-january-2024-5-00-am"
   },
   {
-    "date": "Jan 2, 2024",
+    "observation_date": "Jan 2, 2024",
     "observation_period": "5AM - 5AM",
     "seismicity": {
       "volcanic_earthquakes": 15,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Dec 1, 2023",
-      "count": {
-        "metric_tons": 102,
-        "kilograms": 102000
+      "observation_date": "Dec 1, 2023",
+      "counts": {
+        "metric_tons": 102
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 70,
-        "feet": 229.67000000000002
+        "feet": 230
       },
       "drift_direction": [
         "West-Southwest"
@@ -60,26 +60,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22043-bulusan-volcano-summary-of-24hr-observation-02-january-2024-5-00-am"
   },
   {
-    "date": "Jan 3, 2024",
+    "observation_date": "Jan 3, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 67,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Dec 1, 2023",
-      "count": {
-        "metric_tons": 102,
-        "kilograms": 102000
+      "observation_date": "Dec 1, 2023",
+      "counts": {
+        "metric_tons": 102
       }
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": null,
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -89,24 +90,23 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22061-bulusan-volcano-summary-of-24hr-observation-03-january-2024-12-00-am"
   },
   {
-    "date": "Jan 4, 2024",
+    "observation_date": "Jan 4, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 20,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Dec 1, 2023",
-      "count": {
-        "metric_tons": 102,
-        "kilograms": 102000
+      "observation_date": "Dec 1, 2023",
+      "counts": {
+        "metric_tons": 102
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 100,
-        "feet": 328.1
+        "feet": 328
       },
       "drift_direction": [
         "Southwest"
@@ -120,24 +120,23 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22081-bulusan-volcano-summary-of-24hr-observation-04-january-2024-12-00-am"
   },
   {
-    "date": "Jan 5, 2024",
+    "observation_date": "Jan 5, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 15,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Dec 1, 2023",
-      "count": {
-        "metric_tons": 102,
-        "kilograms": 102000
+      "observation_date": "Dec 1, 2023",
+      "counts": {
+        "metric_tons": 102
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 50,
-        "feet": 164.05
+        "feet": 164
       },
       "drift_direction": [
         "Southwest"
@@ -151,26 +150,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22097-bulusan-volcano-summary-of-24hr-observation-05-january-2024-12-00-am"
   },
   {
-    "date": "Jan 6, 2024",
+    "observation_date": "Jan 6, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 5,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Dec 1, 2023",
-      "count": {
-        "metric_tons": 102,
-        "kilograms": 102000
+      "observation_date": "Dec 1, 2023",
+      "counts": {
+        "metric_tons": 102
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -180,26 +180,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22113-bulusan-volcano-summary-of-24hr-observation-06-january-2024-12-00-am"
   },
   {
-    "date": "Jan 7, 2024",
+    "observation_date": "Jan 7, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 6,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Dec 1, 2023",
-      "count": {
-        "metric_tons": 102,
-        "kilograms": 102000
+      "observation_date": "Dec 1, 2023",
+      "counts": {
+        "metric_tons": 102
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -209,26 +210,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22133-bulusan-volcano-summary-of-24hr-observation-07-january-2024-12-00-am"
   },
   {
-    "date": "Jan 8, 2024",
+    "observation_date": "Jan 8, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 18,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Dec 1, 2023",
-      "count": {
-        "metric_tons": 102,
-        "kilograms": 102000
+      "observation_date": "Dec 1, 2023",
+      "counts": {
+        "metric_tons": 102
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -238,26 +240,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22149-bulusan-volcano-summary-of-24hr-observation-08-january-2024-12-00-am"
   },
   {
-    "date": "Jan 9, 2024",
+    "observation_date": "Jan 9, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 19,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Dec 1, 2023",
-      "count": {
-        "metric_tons": 102,
-        "kilograms": 102000
+      "observation_date": "Dec 1, 2023",
+      "counts": {
+        "metric_tons": 102
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -267,26 +270,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22169-bulusan-volcano-summary-of-24hr-observation-09-january-2024-12-00-am"
   },
   {
-    "date": "Jan 10, 2024",
+    "observation_date": "Jan 10, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 12,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Dec 1, 2023",
-      "count": {
-        "metric_tons": 102,
-        "kilograms": 102000
+      "observation_date": "Dec 1, 2023",
+      "counts": {
+        "metric_tons": 102
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -296,24 +300,23 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22185-bulusan-volcano-summary-of-24hr-observation-10-january-2024-12-00-am"
   },
   {
-    "date": "Jan 11, 2024",
+    "observation_date": "Jan 11, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 9,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Dec 1, 2023",
-      "count": {
-        "metric_tons": 102,
-        "kilograms": 102000
+      "observation_date": "Dec 1, 2023",
+      "counts": {
+        "metric_tons": 102
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 150,
-        "feet": 492.15000000000003
+        "feet": 492
       },
       "drift_direction": [
         "West",
@@ -328,26 +331,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22201-bulusan-volcano-summary-of-24hr-observation-11-january-2024-12-00-am"
   },
   {
-    "date": "Jan 12, 2024",
+    "observation_date": "Jan 12, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 89,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Dec 1, 2023",
-      "count": {
-        "metric_tons": 102,
-        "kilograms": 102000
+      "observation_date": "Dec 1, 2023",
+      "counts": {
+        "metric_tons": 102
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -357,26 +361,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22223-bulusan-volcano-summary-of-24hr-observation-12-january-2024-12-00-am"
   },
   {
-    "date": "Jan 13, 2024",
+    "observation_date": "Jan 13, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 8,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Dec 1, 2023",
-      "count": {
-        "metric_tons": 102,
-        "kilograms": 102000
+      "observation_date": "Dec 1, 2023",
+      "counts": {
+        "metric_tons": 102
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -386,26 +391,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22241-bulusan-volcano-summary-of-24hr-observation-13-january-2024-12-00-am"
   },
   {
-    "date": "Jan 14, 2024",
+    "observation_date": "Jan 14, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 19,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Dec 1, 2023",
-      "count": {
-        "metric_tons": 102,
-        "kilograms": 102000
+      "observation_date": "Dec 1, 2023",
+      "counts": {
+        "metric_tons": 102
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -415,26 +421,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22257-bulusan-volcano-summary-of-24hr-observation-14-january-2024-12-00-am"
   },
   {
-    "date": "Jan 15, 2024",
+    "observation_date": "Jan 15, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 15,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Dec 1, 2023",
-      "count": {
-        "metric_tons": 102,
-        "kilograms": 102000
+      "observation_date": "Dec 1, 2023",
+      "counts": {
+        "metric_tons": 102
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -444,26 +451,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22273-bulusan-volcano-summary-of-24hr-observation-15-january-2024-12-00-am"
   },
   {
-    "date": "Jan 16, 2024",
+    "observation_date": "Jan 16, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 21,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Dec 1, 2023",
-      "count": {
-        "metric_tons": 102,
-        "kilograms": 102000
+      "observation_date": "Dec 1, 2023",
+      "counts": {
+        "metric_tons": 102
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -473,26 +481,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22299-bulusan-volcano-summary-of-24hr-observation-16-january-2024-12-00-am"
   },
   {
-    "date": "Jan 17, 2024",
+    "observation_date": "Jan 17, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 11,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Dec 1, 2023",
-      "count": {
-        "metric_tons": 102,
-        "kilograms": 102000
+      "observation_date": "Dec 1, 2023",
+      "counts": {
+        "metric_tons": 102
       }
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": null,
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -502,26 +511,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22317-bulusan-volcano-summary-of-24hr-observation-17-january-2024-12-00-am"
   },
   {
-    "date": "Jan 18, 2024",
+    "observation_date": "Jan 18, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 8,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Dec 1, 2023",
-      "count": {
-        "metric_tons": 102,
-        "kilograms": 102000
+      "observation_date": "Dec 1, 2023",
+      "counts": {
+        "metric_tons": 102
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -531,26 +541,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22335-bulusan-volcano-summary-of-24hr-observation-18-january-2024-12-00-am"
   },
   {
-    "date": "Jan 19, 2024",
+    "observation_date": "Jan 19, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 32,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -560,21 +571,20 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22361-bulusan-volcano-summary-of-24hr-observation-19-january-2024-12-00-am"
   },
   {
-    "date": "Jan 20, 2024",
+    "observation_date": "Jan 20, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 6,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -591,26 +601,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22387-bulusan-volcano-summary-of-24hr-observation-20-january-2024-12-00-am"
   },
   {
-    "date": "Jan 21, 2024",
+    "observation_date": "Jan 21, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 20,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -620,26 +631,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22403-bulusan-volcano-summary-of-24hr-observation-21-january-2024-12-00-am"
   },
   {
-    "date": "Jan 22, 2024",
+    "observation_date": "Jan 22, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 18,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": 100,
-        "feet": 328.1
+        "feet": 328
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -649,21 +661,20 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22419-bulusan-volcano-summary-of-24hr-observation-22-january-2024-12-00-am"
   },
   {
-    "date": "Jan 23, 2024",
+    "observation_date": "Jan 23, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 91,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": null,
         "feet": null
@@ -680,26 +691,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22437-bulusan-volcano-summary-of-24hr-observation-23-january-2024-12-00-am"
   },
   {
-    "date": "Jan 24, 2024",
+    "observation_date": "Jan 24, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 39,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": 20,
-        "feet": 65.62
+        "feet": 66
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -709,21 +721,20 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22455-bulusan-volcano-summary-of-24hr-observation-24-january-2024-12-00-am"
   },
   {
-    "date": "Jan 25, 2024",
+    "observation_date": "Jan 25, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 8,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -740,26 +751,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22479-bulusan-volcano-summary-of-24hr-observation-25-january-2024-12-00-am"
   },
   {
-    "date": "Jan 26, 2024",
+    "observation_date": "Jan 26, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 6,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -769,26 +781,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22499-bulusan-volcano-summary-of-24hr-observation-26-january-2024-12-00-am"
   },
   {
-    "date": "Jan 27, 2024",
+    "observation_date": "Jan 27, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 8,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -798,21 +811,20 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22519-bulusan-volcano-summary-of-24hr-observation-27-january-2024-12-00-am"
   },
   {
-    "date": "Jan 28, 2024",
+    "observation_date": "Jan 28, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 24,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": null,
         "feet": null
@@ -829,26 +841,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22537-bulusan-volcano-summary-of-24hr-observation-28-january-2024-12-00-am"
   },
   {
-    "date": "Jan 29, 2024",
+    "observation_date": "Jan 29, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 140,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -858,26 +871,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22555-bulusan-volcano-summary-of-24hr-observation-29-january-2024-12-00-am"
   },
   {
-    "date": "Jan 30, 2024",
+    "observation_date": "Jan 30, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 65,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -887,26 +901,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22573-bulusan-volcano-summary-of-24hr-observation-30-january-2024-12-00-am"
   },
   {
-    "date": "Jan 31, 2024",
+    "observation_date": "Jan 31, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 8,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -916,26 +931,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22591-bulusan-volcano-summary-of-24hr-observation-31-january-2024-12-00-am"
   },
   {
-    "date": "Feb 1, 2024",
+    "observation_date": "Feb 1, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 5,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -945,24 +961,23 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22611-bulusan-volcano-summary-of-24hr-observation-01-february-2024-12-00-am"
   },
   {
-    "date": "Feb 2, 2024",
+    "observation_date": "Feb 2, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 10,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 150,
-        "feet": 492.15000000000003
+        "feet": 492
       },
       "drift_direction": [
         "Southwest"
@@ -976,24 +991,23 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22633-bulusan-volcano-summary-of-24hr-observation-02-february-2024-12-00-am"
   },
   {
-    "date": "Feb 3, 2024",
+    "observation_date": "Feb 3, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 11,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 70,
-        "feet": 229.67000000000002
+        "feet": 230
       },
       "drift_direction": [
         "West-Southwest"
@@ -1007,21 +1021,20 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22659-bulusan-volcano-summary-of-24hr-observation-03-february-2024-12-00-am"
   },
   {
-    "date": "Feb 4, 2024",
+    "observation_date": "Feb 4, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 27,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -1038,24 +1051,23 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22685-bulusan-volcano-summary-of-24hr-observation-04-february-2024-12-00-am"
   },
   {
-    "date": "Feb 5, 2024",
+    "observation_date": "Feb 5, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 33,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 150,
-        "feet": 492.15000000000003
+        "feet": 492
       },
       "drift_direction": [
         "West"
@@ -1069,26 +1081,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22691-bulusan-volcano-summary-of-24hr-observation-05-february-2024-12-00-am"
   },
   {
-    "date": "Feb 6, 2024",
+    "observation_date": "Feb 6, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 24,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -1098,24 +1111,23 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan/volcano/22709-bulusan-volcano-summary-of-24hr-observation-06-february-2024-12-00-am"
   },
   {
-    "date": "Feb 7, 2024",
+    "observation_date": "Feb 7, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 63,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 150,
-        "feet": 492.15000000000003
+        "feet": 492
       },
       "drift_direction": [
         "Southwest"
@@ -1129,24 +1141,23 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22725-bulusan-volcano-summary-of-24hr-observation-07-february-2024-12-00-am"
   },
   {
-    "date": "Feb 8, 2024",
+    "observation_date": "Feb 8, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 48,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 200,
-        "feet": 656.2
+        "feet": 656
       },
       "drift_direction": [
         "Southwest"
@@ -1160,24 +1171,23 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22749-bulusan-volcano-summary-of-24hr-observation-08-february-2024-12-00-am"
   },
   {
-    "date": "Feb 9, 2024",
+    "observation_date": "Feb 9, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 18,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 200,
-        "feet": 656.2
+        "feet": 656
       },
       "drift_direction": [
         "West-Southwest"
@@ -1191,26 +1201,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22767-bulusan-volcano-summary-of-24hr-observation-09-february-2024-12-00-am"
   },
   {
-    "date": "Feb 10, 2024",
+    "observation_date": "Feb 10, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 43,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -1220,26 +1231,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22783-bulusan-volcano-summary-of-24hr-observation-10-february-2024-12-00-am"
   },
   {
-    "date": "Feb 11, 2024",
+    "observation_date": "Feb 11, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 30,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -1249,26 +1261,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22799-bulusan-volcano-summary-of-24hr-observation-11-february-2024-12-00-am"
   },
   {
-    "date": "Feb 12, 2024",
+    "observation_date": "Feb 12, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 19,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -1278,26 +1291,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22815-bulusan-volcano-summary-of-24hr-observation-12-february-2024-12-00-am"
   },
   {
-    "date": "Feb 13, 2024",
+    "observation_date": "Feb 13, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 3,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -1307,26 +1321,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22835-bulusan-volcano-summary-of-24hr-observation-13-february-2024-12-00-am"
   },
   {
-    "date": "Feb 14, 2024",
+    "observation_date": "Feb 14, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 13,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -1336,26 +1351,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22855-bulusan-volcano-summary-of-24hr-observation-14-february-2024-12-00-am"
   },
   {
-    "date": "Feb 15, 2024",
+    "observation_date": "Feb 15, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 21,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -1365,26 +1381,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22873-bulusan-volcano-summary-of-24hr-observation-15-february-2024-12-00-am"
   },
   {
-    "date": "Feb 16, 2024",
+    "observation_date": "Feb 16, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 56,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -1394,21 +1411,20 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22893-bulusan-volcano-summary-of-24hr-observation-16-february-2024-12-00-am"
   },
   {
-    "date": "Feb 17, 2024",
+    "observation_date": "Feb 17, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 13,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -1425,24 +1441,23 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22915-bulusan-volcano-summary-of-24hr-observation-17-february-2024-12-00-am"
   },
   {
-    "date": "Feb 18, 2024",
+    "observation_date": "Feb 18, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 5,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": 70,
-        "feet": 229.67000000000002
+        "feet": 230
       },
       "drift_direction": [
         "West-Southwest"
@@ -1456,26 +1471,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22931-bulusan-volcano-summary-of-24hr-observation-18-february-2024-12-00-am"
   },
   {
-    "date": "Feb 19, 2024",
+    "observation_date": "Feb 19, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 2,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -1485,26 +1501,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22947-bulusan-volcano-summary-of-24hr-observation-19-february-2024-12-00-am"
   },
   {
-    "date": "Feb 20, 2024",
+    "observation_date": "Feb 20, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 4,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": null,
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -1514,24 +1531,23 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22973-bulusan-volcano-summary-of-24hr-observation-20-february-2024-12-00-am"
   },
   {
-    "date": "Feb 21, 2024",
+    "observation_date": "Feb 21, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 3,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 200,
-        "feet": 656.2
+        "feet": 656
       },
       "drift_direction": [
         "Southwest"
@@ -1545,24 +1561,23 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/22995-bulusan-volcano-summary-of-24hr-observation-21-february-2024-12-00-am"
   },
   {
-    "date": "Feb 22, 2024",
+    "observation_date": "Feb 22, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 12,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Jan 18, 2024",
-      "count": {
-        "metric_tons": 202,
-        "kilograms": 202000
+      "observation_date": "Jan 18, 2024",
+      "counts": {
+        "metric_tons": 202
       }
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": 80,
-        "feet": 262.48
+        "feet": 262
       },
       "drift_direction": [
         "West-Southwest"
@@ -1576,21 +1591,20 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/23011-bulusan-volcano-summary-of-24hr-observation-22-february-2024-12-00-am"
   },
   {
-    "date": "Feb 23, 2024",
+    "observation_date": "Feb 23, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 44,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Feb 22, 2024",
-      "count": {
-        "metric_tons": 46,
-        "kilograms": 46000
+      "observation_date": "Feb 22, 2024",
+      "counts": {
+        "metric_tons": 46
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -1607,21 +1621,20 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/23033-bulusan-volcano-summary-of-24hr-observation-23-february-2024-12-00-am"
   },
   {
-    "date": "Feb 24, 2024",
+    "observation_date": "Feb 24, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 14,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Feb 22, 2024",
-      "count": {
-        "metric_tons": 46,
-        "kilograms": 46000
+      "observation_date": "Feb 22, 2024",
+      "counts": {
+        "metric_tons": 46
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -1638,26 +1651,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/23051-bulusan-volcano-summary-of-24hr-observation-24-february-2024-12-00-am"
   },
   {
-    "date": "Feb 25, 2024",
+    "observation_date": "Feb 25, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 4,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Feb 22, 2024",
-      "count": {
-        "metric_tons": 46,
-        "kilograms": 46000
+      "observation_date": "Feb 22, 2024",
+      "counts": {
+        "metric_tons": 46
       }
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": 50,
-        "feet": 164.05
+        "feet": 164
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -1667,26 +1681,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/23067-bulusan-volcano-summary-of-24hr-observation-25-february-2024-12-00-am"
   },
   {
-    "date": "Feb 26, 2024",
+    "observation_date": "Feb 26, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 5,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Feb 22, 2024",
-      "count": {
-        "metric_tons": 46,
-        "kilograms": 46000
+      "observation_date": "Feb 22, 2024",
+      "counts": {
+        "metric_tons": 46
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -1696,26 +1711,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/23083-bulusan-volcano-summary-of-24hr-observation-26-february-2024-12-00-am"
   },
   {
-    "date": "Feb 27, 2024",
+    "observation_date": "Feb 27, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 3,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Feb 22, 2024",
-      "count": {
-        "metric_tons": 46,
-        "kilograms": 46000
+      "observation_date": "Feb 22, 2024",
+      "counts": {
+        "metric_tons": 46
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -1725,21 +1741,20 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/23103-bulusan-volcano-summary-of-24hr-observation-27-february-2024-12-00-am"
   },
   {
-    "date": "Feb 28, 2024",
+    "observation_date": "Feb 28, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 3,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Feb 22, 2024",
-      "count": {
-        "metric_tons": 46,
-        "kilograms": 46000
+      "observation_date": "Feb 22, 2024",
+      "counts": {
+        "metric_tons": 46
       }
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": null,
         "feet": null
@@ -1756,26 +1771,27 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/23119-bulusan-volcano-summary-of-24hr-observation-28-february-2024-12-00-am"
   },
   {
-    "date": "Feb 29, 2024",
+    "observation_date": "Feb 29, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 6,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Feb 22, 2024",
-      "count": {
-        "metric_tons": 46,
-        "kilograms": 46000
+      "observation_date": "Feb 22, 2024",
+      "counts": {
+        "metric_tons": 46
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Volcano edifice is inflated",
     "alert_level": {
@@ -1785,24 +1801,23 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/23135-bulusan-volcano-summary-of-24hr-observation-29-february-2024-12-00-am"
   },
   {
-    "date": "Mar 1, 2024",
+    "observation_date": "Mar 1, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 2,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Feb 22, 2024",
-      "count": {
-        "metric_tons": 46,
-        "kilograms": 46000
+      "observation_date": "Feb 22, 2024",
+      "counts": {
+        "metric_tons": 46
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 150,
-        "feet": 492.15000000000003
+        "feet": 492
       },
       "drift_direction": [
         "Southwest"
@@ -1816,21 +1831,20 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/23163-bulusan-volcano-summary-of-24hr-observation-01-march-2024-12-00-am"
   },
   {
-    "date": "Mar 2, 2024",
+    "observation_date": "Mar 2, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 2,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Feb 22, 2024",
-      "count": {
-        "metric_tons": 46,
-        "kilograms": 46000
+      "observation_date": "Feb 22, 2024",
+      "counts": {
+        "metric_tons": 46
       }
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": null,
         "feet": null
@@ -1847,24 +1861,23 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/23181-bulusan-volcano-summary-of-24hr-observation-02-march-2024-12-00-am"
   },
   {
-    "date": "Mar 3, 2024",
+    "observation_date": "Mar 3, 2024",
     "observation_period": "12AM - 12AM",
     "seismicity": {
       "volcanic_earthquakes": 2,
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "date": "Feb 22, 2024",
-      "count": {
-        "metric_tons": 46,
-        "kilograms": 46000
+      "observation_date": "Feb 22, 2024",
+      "counts": {
+        "metric_tons": 46
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 70,
-        "feet": 229.67000000000002
+        "feet": 230
       },
       "drift_direction": [
         "Southwest"
@@ -1876,5 +1889,35 @@
       "remarks": "Low-level Unrest"
     },
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/23197-bulusan-volcano-summary-of-24hr-observation-03-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 4, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 7,
+      "rockfall_events": 0
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Feb 22, 2024",
+      "counts": {
+        "metric_tons": 46
+      }
+    },
+    "plume_emission": {
+      "intensity": "Weak",
+      "height": {
+        "meters": null,
+        "feet": null
+      },
+      "drift_direction": [
+        "null"
+      ]
+    },
+    "ground_deformation": "Volcano edifice is inflated",
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level Unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/23213-bulusan-volcano-summary-of-24hr-observation-04-march-2024-12-00-am"
   }
 ]

@@ -1,9 +1,9 @@
 [
   {
-    "date": "Jan 1, 2024",
+    "observation_date": "Jan 1, 2024",
     "observation_period": "5AM - 5AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -13,17 +13,16 @@
     },
     "crater_glow": null,
     "sulfur_dioxide": {
-      "date": "Dec 31, 2023",
-      "count": {
-        "metric_tons": 895,
-        "kilograms": 895000
+      "observation_date": "Dec 31, 2023",
+      "counts": {
+        "metric_tons": 895
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 500,
-        "feet": 1640.5
+        "feet": 1640
       },
       "drift_direction": [
         "West-Southwest",
@@ -38,10 +37,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22035-mayon-volcano-summary-of-24hr-observation-01-january-2024-5-00-am"
   },
   {
-    "date": "Jan 2, 2024",
+    "observation_date": "Jan 2, 2024",
     "observation_period": "5AM - 5AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -51,17 +50,16 @@
     },
     "crater_glow": null,
     "sulfur_dioxide": {
-      "date": "Dec 31, 2023",
-      "count": {
-        "metric_tons": 895,
-        "kilograms": 895000
+      "observation_date": "Dec 31, 2023",
+      "counts": {
+        "metric_tons": 895
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 1500,
-        "feet": 4921.5
+        "feet": 4922
       },
       "drift_direction": [
         "West-Northwest",
@@ -77,10 +75,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22051-mayon-volcano-summary-of-24hr-observation-02-january-2024-5-00-am"
   },
   {
-    "date": "Jan 3, 2024",
+    "observation_date": "Jan 3, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -90,17 +88,16 @@
     },
     "crater_glow": null,
     "sulfur_dioxide": {
-      "date": "Dec 31, 2023",
-      "count": {
-        "metric_tons": 895,
-        "kilograms": 895000
+      "observation_date": "Dec 31, 2023",
+      "counts": {
+        "metric_tons": 895
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 1000,
-        "feet": 3281.0
+        "feet": 3281
       },
       "drift_direction": [
         "General West",
@@ -115,10 +112,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22069-mayon-volcano-summary-of-24hr-observation-03-january-2024-12-00-am"
   },
   {
-    "date": "Jan 4, 2024",
+    "observation_date": "Jan 4, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -128,17 +125,16 @@
     },
     "crater_glow": null,
     "sulfur_dioxide": {
-      "date": "Dec 31, 2023",
-      "count": {
-        "metric_tons": 895,
-        "kilograms": 895000
+      "observation_date": "Dec 31, 2023",
+      "counts": {
+        "metric_tons": 895
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 1000,
-        "feet": 3281.0
+        "feet": 3281
       },
       "drift_direction": [
         "East-Southeast. East-Northeast"
@@ -152,10 +148,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22089-mayon-volcano-summary-of-24hr-observation-04-january-2024-12-00-am"
   },
   {
-    "date": "Jan 5, 2024",
+    "observation_date": "Jan 5, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -165,17 +161,16 @@
     },
     "crater_glow": null,
     "sulfur_dioxide": {
-      "date": "Dec 31, 2023",
-      "count": {
-        "metric_tons": 895,
-        "kilograms": 895000
+      "observation_date": "Dec 31, 2023",
+      "counts": {
+        "metric_tons": 895
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 500,
-        "feet": 1640.5
+        "feet": 1640
       },
       "drift_direction": [
         "West-Southwest",
@@ -190,10 +185,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22105-mayon-volcano-summary-of-24hr-observation-05-january-2024-12-00-am"
   },
   {
-    "date": "Jan 6, 2024",
+    "observation_date": "Jan 6, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -203,19 +198,20 @@
     },
     "crater_glow": "Fair (naked eye)",
     "sulfur_dioxide": {
-      "date": "Dec 31, 2023",
-      "count": {
-        "metric_tons": 895,
-        "kilograms": 895000
+      "observation_date": "Dec 31, 2023",
+      "counts": {
+        "metric_tons": 895
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Short-term inflation of the edifice",
     "alert_level": {
@@ -225,10 +221,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22125-mayon-volcano-summary-of-24hr-observation-06-january-2024-12-00-am"
   },
   {
-    "date": "Jan 7, 2024",
+    "observation_date": "Jan 7, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -238,19 +234,20 @@
     },
     "crater_glow": "Fair (naked eye)",
     "sulfur_dioxide": {
-      "date": "Dec 31, 2023",
-      "count": {
-        "metric_tons": 895,
-        "kilograms": 895000
+      "observation_date": "Dec 31, 2023",
+      "counts": {
+        "metric_tons": 895
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Short-term inflation of the edifice",
     "alert_level": {
@@ -260,10 +257,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22141-mayon-volcano-summary-of-24hr-observation-07-january-2024-12-00-am"
   },
   {
-    "date": "Jan 8, 2024",
+    "observation_date": "Jan 8, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -273,19 +270,20 @@
     },
     "crater_glow": "Obscured",
     "sulfur_dioxide": {
-      "date": "Dec 31, 2023",
-      "count": {
-        "metric_tons": 895,
-        "kilograms": 895000
+      "observation_date": "Dec 31, 2023",
+      "counts": {
+        "metric_tons": 895
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Short-term inflation of the edifice",
     "alert_level": {
@@ -295,10 +293,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22157-mayon-volcano-summary-of-24hr-observation-08-january-2024-12-00-am"
   },
   {
-    "date": "Jan 9, 2024",
+    "observation_date": "Jan 9, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -308,19 +306,20 @@
     },
     "crater_glow": "Obscured",
     "sulfur_dioxide": {
-      "date": "Dec 31, 2023",
-      "count": {
-        "metric_tons": 895,
-        "kilograms": 895000
+      "observation_date": "Dec 31, 2023",
+      "counts": {
+        "metric_tons": 895
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Short-term inflation of the edifice",
     "alert_level": {
@@ -330,10 +329,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22177-mayon-volcano-summary-of-24hr-observation-09-january-2024-12-00-am"
   },
   {
-    "date": "Jan 10, 2024",
+    "observation_date": "Jan 10, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -343,17 +342,16 @@
     },
     "crater_glow": null,
     "sulfur_dioxide": {
-      "date": "Jan 9, 2024",
-      "count": {
-        "metric_tons": 1523,
-        "kilograms": 1523000
+      "observation_date": "Jan 9, 2024",
+      "counts": {
+        "metric_tons": 1523
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 500,
-        "feet": 1640.5
+        "feet": 1640
       },
       "drift_direction": [
         "General West"
@@ -367,10 +365,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22193-mayon-volcano-summary-of-24hr-observation-10-january-2024-12-00-am"
   },
   {
-    "date": "Jan 11, 2024",
+    "observation_date": "Jan 11, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -380,17 +378,16 @@
     },
     "crater_glow": "Fair (naked eye)",
     "sulfur_dioxide": {
-      "date": "Jan 9, 2024",
-      "count": {
-        "metric_tons": 1523,
-        "kilograms": 1523000
+      "observation_date": "Jan 9, 2024",
+      "counts": {
+        "metric_tons": 1523
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 500,
-        "feet": 1640.5
+        "feet": 1640
       },
       "drift_direction": [
         "Southwest"
@@ -404,10 +401,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22209-mayon-volcano-summary-of-24hr-observation-11-january-2024-12-00-am"
   },
   {
-    "date": "Jan 12, 2024",
+    "observation_date": "Jan 12, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -417,14 +414,13 @@
     },
     "crater_glow": "Fair (naked eye)",
     "sulfur_dioxide": {
-      "date": "Jan 9, 2024",
-      "count": {
-        "metric_tons": 1523,
-        "kilograms": 1523000
+      "observation_date": "Jan 9, 2024",
+      "counts": {
+        "metric_tons": 1523
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -443,10 +439,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22231-mayon-volcano-summary-of-24hr-observation-12-january-2024-12-00-am"
   },
   {
-    "date": "Jan 13, 2024",
+    "observation_date": "Jan 13, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -456,19 +452,20 @@
     },
     "crater_glow": null,
     "sulfur_dioxide": {
-      "date": "Jan 9, 2024",
-      "count": {
-        "metric_tons": 1523,
-        "kilograms": 1523000
+      "observation_date": "Jan 9, 2024",
+      "counts": {
+        "metric_tons": 1523
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Short-term inflation of the edifice",
     "alert_level": {
@@ -478,10 +475,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22249-mayon-volcano-summary-of-24hr-observation-13-january-2024-12-00-am"
   },
   {
-    "date": "Jan 14, 2024",
+    "observation_date": "Jan 14, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -491,14 +488,13 @@
     },
     "crater_glow": "Fair (naked eye)",
     "sulfur_dioxide": {
-      "date": "Jan 9, 2024",
-      "count": {
-        "metric_tons": 1523,
-        "kilograms": 1523000
+      "observation_date": "Jan 9, 2024",
+      "counts": {
+        "metric_tons": 1523
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -516,10 +512,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22265-mayon-volcano-summary-of-24hr-observation-14-january-2024-12-00-am"
   },
   {
-    "date": "Jan 15, 2024",
+    "observation_date": "Jan 15, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -529,14 +525,13 @@
     },
     "crater_glow": "Fair (naked eye)",
     "sulfur_dioxide": {
-      "date": "Jan 9, 2024",
-      "count": {
-        "metric_tons": 1523,
-        "kilograms": 1523000
+      "observation_date": "Jan 9, 2024",
+      "counts": {
+        "metric_tons": 1523
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -554,10 +549,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22281-mayon-volcano-summary-of-24hr-observation-15-january-2024-12-00-am"
   },
   {
-    "date": "Jan 16, 2024",
+    "observation_date": "Jan 16, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -567,14 +562,13 @@
     },
     "crater_glow": "Fair (naked eye)",
     "sulfur_dioxide": {
-      "date": "Jan 15, 2024",
-      "count": {
-        "metric_tons": 1758,
-        "kilograms": 1758000
+      "observation_date": "Jan 15, 2024",
+      "counts": {
+        "metric_tons": 1758
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -591,10 +585,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22307-mayon-volcano-summary-of-24hr-observation-16-january-2024-12-00-am"
   },
   {
-    "date": "Jan 17, 2024",
+    "observation_date": "Jan 17, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -604,14 +598,13 @@
     },
     "crater_glow": "Fair (naked eye)",
     "sulfur_dioxide": {
-      "date": "Jan 15, 2024",
-      "count": {
-        "metric_tons": 1758,
-        "kilograms": 1758000
+      "observation_date": "Jan 15, 2024",
+      "counts": {
+        "metric_tons": 1758
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -628,10 +621,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22325-mayon-volcano-summary-of-24hr-observation-17-january-2024-12-00-am"
   },
   {
-    "date": "Jan 18, 2024",
+    "observation_date": "Jan 18, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -641,19 +634,20 @@
     },
     "crater_glow": null,
     "sulfur_dioxide": {
-      "date": "Jan 17, 2024",
-      "count": {
-        "metric_tons": 1684,
-        "kilograms": 1684000
+      "observation_date": "Jan 17, 2024",
+      "counts": {
+        "metric_tons": 1684
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Short-term inflation of the edifice",
     "alert_level": {
@@ -663,10 +657,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22343-mayon-volcano-summary-of-24hr-observation-18-january-2024-12-00-am"
   },
   {
-    "date": "Jan 19, 2024",
+    "observation_date": "Jan 19, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -676,14 +670,13 @@
     },
     "crater_glow": "Obscured",
     "sulfur_dioxide": {
-      "date": "Jan 17, 2024",
-      "count": {
-        "metric_tons": 1684,
-        "kilograms": 1684000
+      "observation_date": "Jan 17, 2024",
+      "counts": {
+        "metric_tons": 1684
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -701,10 +694,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22369-mayon-volcano-summary-of-24hr-observation-19-january-2024-12-00-am"
   },
   {
-    "date": "Jan 20, 2024",
+    "observation_date": "Jan 20, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -714,14 +707,13 @@
     },
     "crater_glow": "Fair (naked eye)",
     "sulfur_dioxide": {
-      "date": "Jan 17, 2024",
-      "count": {
-        "metric_tons": 1684,
-        "kilograms": 1684000
+      "observation_date": "Jan 17, 2024",
+      "counts": {
+        "metric_tons": 1684
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -738,10 +730,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22395-mayon-volcano-summary-of-24hr-observation-20-january-2024-12-00-am"
   },
   {
-    "date": "Jan 21, 2024",
+    "observation_date": "Jan 21, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -751,14 +743,13 @@
     },
     "crater_glow": "Fair (naked eye)",
     "sulfur_dioxide": {
-      "date": "Jan 17, 2024",
-      "count": {
-        "metric_tons": 1684,
-        "kilograms": 1684000
+      "observation_date": "Jan 17, 2024",
+      "counts": {
+        "metric_tons": 1684
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -775,10 +766,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22411-mayon-volcano-summary-of-24hr-observation-21-january-2024-12-00-am"
   },
   {
-    "date": "Jan 22, 2024",
+    "observation_date": "Jan 22, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -788,19 +779,20 @@
     },
     "crater_glow": "Fair (naked eye)",
     "sulfur_dioxide": {
-      "date": "Jan 17, 2024",
-      "count": {
-        "metric_tons": 1684,
-        "kilograms": 1684000
+      "observation_date": "Jan 17, 2024",
+      "counts": {
+        "metric_tons": 1684
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Short-term inflation of the edifice",
     "alert_level": {
@@ -810,10 +802,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22427-mayon-volcano-summary-of-24hr-observation-22-january-2024-12-00-am"
   },
   {
-    "date": "Jan 23, 2024",
+    "observation_date": "Jan 23, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -823,14 +815,13 @@
     },
     "crater_glow": "Fair (naked eye)",
     "sulfur_dioxide": {
-      "date": "Jan 22, 2024",
-      "count": {
-        "metric_tons": 2394,
-        "kilograms": 2394000
+      "observation_date": "Jan 22, 2024",
+      "counts": {
+        "metric_tons": 2394
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -848,10 +839,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22445-mayon-volcano-summary-of-24hr-observation-23-january-2024-12-00-am"
   },
   {
-    "date": "Jan 24, 2024",
+    "observation_date": "Jan 24, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -861,17 +852,16 @@
     },
     "crater_glow": "Fair (naked eye)",
     "sulfur_dioxide": {
-      "date": "Jan 23, 2024",
-      "count": {
-        "metric_tons": 1054,
-        "kilograms": 1054000
+      "observation_date": "Jan 23, 2024",
+      "counts": {
+        "metric_tons": 1054
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 300,
-        "feet": 984.3000000000001
+        "feet": 984
       },
       "drift_direction": [
         "Southwest",
@@ -886,10 +876,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22463-mayon-volcano-summary-of-24hr-observation-24-january-2024-12-00-am"
   },
   {
-    "date": "Jan 25, 2024",
+    "observation_date": "Jan 25, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -899,14 +889,13 @@
     },
     "crater_glow": null,
     "sulfur_dioxide": {
-      "date": "Jan 23, 2024",
-      "count": {
-        "metric_tons": 1054,
-        "kilograms": 1054000
+      "observation_date": "Jan 23, 2024",
+      "counts": {
+        "metric_tons": 1054
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -924,10 +913,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22487-mayon-volcano-summary-of-24hr-observation-25-january-2024-12-00-am"
   },
   {
-    "date": "Jan 26, 2024",
+    "observation_date": "Jan 26, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -937,19 +926,20 @@
     },
     "crater_glow": null,
     "sulfur_dioxide": {
-      "date": "Jan 23, 2024",
-      "count": {
-        "metric_tons": 1054,
-        "kilograms": 1054000
+      "observation_date": "Jan 23, 2024",
+      "counts": {
+        "metric_tons": 1054
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Short-term inflation of the edifice",
     "alert_level": {
@@ -959,10 +949,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22507-mayon-volcano-summary-of-24hr-observation-26-january-2024-12-00-am"
   },
   {
-    "date": "Jan 27, 2024",
+    "observation_date": "Jan 27, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -972,19 +962,20 @@
     },
     "crater_glow": "Fair (naked eye)",
     "sulfur_dioxide": {
-      "date": "Jan 23, 2024",
-      "count": {
-        "metric_tons": 1054,
-        "kilograms": 1054000
+      "observation_date": "Jan 23, 2024",
+      "counts": {
+        "metric_tons": 1054
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Short-term inflation of the edifice",
     "alert_level": {
@@ -994,10 +985,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22529-mayon-volcano-summary-of-24hr-observation-27-january-2024-12-00-am"
   },
   {
-    "date": "Jan 28, 2024",
+    "observation_date": "Jan 28, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1007,14 +998,13 @@
     },
     "crater_glow": "Obscured",
     "sulfur_dioxide": {
-      "date": "Jan 23, 2024",
-      "count": {
-        "metric_tons": 1054,
-        "kilograms": 1054000
+      "observation_date": "Jan 23, 2024",
+      "counts": {
+        "metric_tons": 1054
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -1032,10 +1022,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22545-mayon-volcano-summary-of-24hr-observation-28-january-2024-12-00-am"
   },
   {
-    "date": "Jan 29, 2024",
+    "observation_date": "Jan 29, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1045,14 +1035,13 @@
     },
     "crater_glow": "Obscured",
     "sulfur_dioxide": {
-      "date": "Jan 23, 2024",
-      "count": {
-        "metric_tons": 1054,
-        "kilograms": 1054000
+      "observation_date": "Jan 23, 2024",
+      "counts": {
+        "metric_tons": 1054
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -1070,10 +1059,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22563-mayon-volcano-summary-of-24hr-observation-29-january-2024-12-00-am"
   },
   {
-    "date": "Jan 30, 2024",
+    "observation_date": "Jan 30, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1083,19 +1072,20 @@
     },
     "crater_glow": "Fair (naked eye)",
     "sulfur_dioxide": {
-      "date": "Jan 29, 2024",
-      "count": {
-        "metric_tons": 1167,
-        "kilograms": 1167000
+      "observation_date": "Jan 29, 2024",
+      "counts": {
+        "metric_tons": 1167
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Short-term inflation of the edifice",
     "alert_level": {
@@ -1105,10 +1095,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22581-mayon-volcano-summary-of-24hr-observation-30-january-2024-12-00-am"
   },
   {
-    "date": "Jan 31, 2024",
+    "observation_date": "Jan 31, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1118,17 +1108,16 @@
     },
     "crater_glow": "Obscured",
     "sulfur_dioxide": {
-      "date": "Jan 30, 2024",
-      "count": {
-        "metric_tons": 1265,
-        "kilograms": 1265000
+      "observation_date": "Jan 30, 2024",
+      "counts": {
+        "metric_tons": 1265
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 500,
-        "feet": 1640.5
+        "feet": 1640
       },
       "drift_direction": [
         "Northwest",
@@ -1143,10 +1132,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22599-mayon-volcano-summary-of-24hr-observation-31-january-2024-12-00-am"
   },
   {
-    "date": "Feb 1, 2024",
+    "observation_date": "Feb 1, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1156,14 +1145,13 @@
     },
     "crater_glow": "Fair (naked eye)",
     "sulfur_dioxide": {
-      "date": "Jan 30, 2024",
-      "count": {
-        "metric_tons": 1265,
-        "kilograms": 1265000
+      "observation_date": "Jan 30, 2024",
+      "counts": {
+        "metric_tons": 1265
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -1180,10 +1168,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22619-mayon-volcano-summary-of-24hr-observation-01-february-2024-12-00-am"
   },
   {
-    "date": "Feb 2, 2024",
+    "observation_date": "Feb 2, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1193,14 +1181,13 @@
     },
     "crater_glow": "Fair (naked eye)",
     "sulfur_dioxide": {
-      "date": "Jan 30, 2024",
-      "count": {
-        "metric_tons": 1265,
-        "kilograms": 1265000
+      "observation_date": "Jan 30, 2024",
+      "counts": {
+        "metric_tons": 1265
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -1217,10 +1204,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22641-mayon-volcano-summary-of-24hr-observation-02-february-2024-12-00-am"
   },
   {
-    "date": "Feb 3, 2024",
+    "observation_date": "Feb 3, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1230,17 +1217,16 @@
     },
     "crater_glow": "Fair (naked eye)",
     "sulfur_dioxide": {
-      "date": "Feb 2, 2024",
-      "count": {
-        "metric_tons": 621,
-        "kilograms": 621000
+      "observation_date": "Feb 2, 2024",
+      "counts": {
+        "metric_tons": 621
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 300,
-        "feet": 984.3000000000001
+        "feet": 984
       },
       "drift_direction": [
         "West-Northwest"
@@ -1254,10 +1240,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22667-mayon-volcano-summary-of-24hr-observation-03-february-2024-12-00-am"
   },
   {
-    "date": "Feb 4, 2024",
+    "observation_date": "Feb 4, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1267,17 +1253,16 @@
     },
     "crater_glow": "Fair (naked eye)",
     "sulfur_dioxide": {
-      "date": "Feb 2, 2024",
-      "count": {
-        "metric_tons": 621,
-        "kilograms": 621000
+      "observation_date": "Feb 2, 2024",
+      "counts": {
+        "metric_tons": 621
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 200,
-        "feet": 656.2
+        "feet": 656
       },
       "drift_direction": [
         "General West"
@@ -1291,10 +1276,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22677-mayon-volcano-summary-of-24hr-observation-04-february-2024-12-00-am"
   },
   {
-    "date": "Feb 5, 2024",
+    "observation_date": "Feb 5, 2024",
     "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 1,
+      "counts": 1,
       "type": "Phreatic",
       "duration_in_seconds": 169
     },
@@ -1304,14 +1289,13 @@
     },
     "crater_glow": "Fair (naked eye)",
     "sulfur_dioxide": {
-      "date": "Feb 2, 2024",
-      "count": {
-        "metric_tons": 621,
-        "kilograms": 621000
+      "observation_date": "Feb 2, 2024",
+      "counts": {
+        "metric_tons": 621
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -1328,10 +1312,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22699-mayon-volcano-summary-of-24hr-observation-05-february-2024-12-00-am"
   },
   {
-    "date": "Feb 6, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Feb 6, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1341,14 +1325,13 @@
     },
     "crater_glow": "Obscured",
     "sulfur_dioxide": {
-      "date": "Feb 5, 2024",
-      "count": {
-        "metric_tons": 702,
-        "kilograms": 702000
+      "observation_date": "Feb 5, 2024",
+      "counts": {
+        "metric_tons": 702
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -1365,10 +1348,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22717-mayon-volcano-summary-of-24hr-observation-06-february-2024-12-00-am"
   },
   {
-    "date": "Feb 7, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Feb 7, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1378,14 +1361,13 @@
     },
     "crater_glow": "Fair (naked eye)",
     "sulfur_dioxide": {
-      "date": "Feb 5, 2024",
-      "count": {
-        "metric_tons": 702,
-        "kilograms": 702000
+      "observation_date": "Feb 5, 2024",
+      "counts": {
+        "metric_tons": 702
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -1402,10 +1384,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22733-mayon-volcano-summary-of-24hr-observation-07-february-2024-12-00-am"
   },
   {
-    "date": "Feb 8, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Feb 8, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1415,17 +1397,16 @@
     },
     "crater_glow": "Fair (naked eye)",
     "sulfur_dioxide": {
-      "date": "Feb 5, 2024",
-      "count": {
-        "metric_tons": 702,
-        "kilograms": 702000
+      "observation_date": "Feb 5, 2024",
+      "counts": {
+        "metric_tons": 702
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 500,
-        "feet": 1640.5
+        "feet": 1640
       },
       "drift_direction": [
         "West-Northwest",
@@ -1442,10 +1423,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22757-mayon-volcano-summary-of-24hr-observation-08-february-2024-12-00-am"
   },
   {
-    "date": "Feb 9, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Feb 9, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1455,17 +1436,16 @@
     },
     "crater_glow": "Fair (naked eye)",
     "sulfur_dioxide": {
-      "date": "Feb 8, 2024",
-      "count": {
-        "metric_tons": 555,
-        "kilograms": 555000
+      "observation_date": "Feb 8, 2024",
+      "counts": {
+        "metric_tons": 555
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 500,
-        "feet": 1640.5
+        "feet": 1640
       },
       "drift_direction": [
         "General North",
@@ -1480,10 +1460,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22775-mayon-volcano-summary-of-24hr-observation-09-february-2024-12-00-am"
   },
   {
-    "date": "Feb 10, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Feb 10, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1493,17 +1473,16 @@
     },
     "crater_glow": "Obscured",
     "sulfur_dioxide": {
-      "date": "Feb 8, 2024",
-      "count": {
-        "metric_tons": 555,
-        "kilograms": 555000
+      "observation_date": "Feb 8, 2024",
+      "counts": {
+        "metric_tons": 555
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 200,
-        "feet": 656.2
+        "feet": 656
       },
       "drift_direction": [
         "West-Northwest"
@@ -1517,10 +1496,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22791-mayon-volcano-summary-of-24hr-observation-10-february-2024-12-00-am"
   },
   {
-    "date": "Feb 11, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Feb 11, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1530,14 +1509,13 @@
     },
     "crater_glow": "Obscured",
     "sulfur_dioxide": {
-      "date": "Feb 10, 2024",
-      "count": {
-        "metric_tons": 1875,
-        "kilograms": 1875000
+      "observation_date": "Feb 10, 2024",
+      "counts": {
+        "metric_tons": 1875
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -1554,10 +1532,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22807-mayon-volcano-summary-of-24hr-observation-11-february-2024-12-00-am"
   },
   {
-    "date": "Feb 12, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Feb 12, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1567,14 +1545,13 @@
     },
     "crater_glow": "Faint (visible via telescope only)",
     "sulfur_dioxide": {
-      "date": "Feb 10, 2024",
-      "count": {
-        "metric_tons": 1875,
-        "kilograms": 1875000
+      "observation_date": "Feb 10, 2024",
+      "counts": {
+        "metric_tons": 1875
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -1591,10 +1568,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22823-mayon-volcano-summary-of-24hr-observation-12-february-2024-12-00-am"
   },
   {
-    "date": "Feb 13, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Feb 13, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1604,19 +1581,20 @@
     },
     "crater_glow": "Faint (visible via telescope only)",
     "sulfur_dioxide": {
-      "date": "Feb 10, 2024",
-      "count": {
-        "metric_tons": 1875,
-        "kilograms": 1875000
+      "observation_date": "Feb 10, 2024",
+      "counts": {
+        "metric_tons": 1875
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Short-term inflation of the edifice",
     "alert_level": {
@@ -1626,10 +1604,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22843-mayon-volcano-summary-of-24hr-observation-13-february-2024-12-00-am"
   },
   {
-    "date": "Feb 14, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Feb 14, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1639,19 +1617,20 @@
     },
     "crater_glow": "Faint (visible via telescope only)",
     "sulfur_dioxide": {
-      "date": "Feb 10, 2024",
-      "count": {
-        "metric_tons": 1875,
-        "kilograms": 1875000
+      "observation_date": "Feb 10, 2024",
+      "counts": {
+        "metric_tons": 1875
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Short-term inflation of the edifice",
     "alert_level": {
@@ -1661,10 +1640,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22863-mayon-volcano-summary-of-24hr-observation-14-february-2024-12-00-am"
   },
   {
-    "date": "Feb 15, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Feb 15, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1674,19 +1653,20 @@
     },
     "crater_glow": "Obscured",
     "sulfur_dioxide": {
-      "date": "Feb 10, 2024",
-      "count": {
-        "metric_tons": 1875,
-        "kilograms": 1875000
+      "observation_date": "Feb 10, 2024",
+      "counts": {
+        "metric_tons": 1875
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Short-term inflation of the edifice",
     "alert_level": {
@@ -1696,10 +1676,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22881-mayon-volcano-summary-of-24hr-observation-15-february-2024-12-00-am"
   },
   {
-    "date": "Feb 16, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Feb 16, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1709,14 +1689,13 @@
     },
     "crater_glow": "Fair (naked eye)",
     "sulfur_dioxide": {
-      "date": "Feb 10, 2024",
-      "count": {
-        "metric_tons": 1875,
-        "kilograms": 1875000
+      "observation_date": "Feb 10, 2024",
+      "counts": {
+        "metric_tons": 1875
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -1733,10 +1712,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22901-mayon-volcano-summary-of-24hr-observation-16-february-2024-12-00-am"
   },
   {
-    "date": "Feb 17, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Feb 17, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1746,14 +1725,13 @@
     },
     "crater_glow": "Faint (visible via telescope only)",
     "sulfur_dioxide": {
-      "date": "Feb 10, 2024",
-      "count": {
-        "metric_tons": 1875,
-        "kilograms": 1875000
+      "observation_date": "Feb 10, 2024",
+      "counts": {
+        "metric_tons": 1875
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -1770,10 +1748,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22923-mayon-volcano-summary-of-24hr-observation-17-february-2024-12-00-am"
   },
   {
-    "date": "Feb 18, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Feb 18, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1783,14 +1761,13 @@
     },
     "crater_glow": "Faint (visible via telescope only)",
     "sulfur_dioxide": {
-      "date": "Feb 10, 2024",
-      "count": {
-        "metric_tons": 1875,
-        "kilograms": 1875000
+      "observation_date": "Feb 10, 2024",
+      "counts": {
+        "metric_tons": 1875
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -1807,10 +1784,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22939-mayon-volcano-summary-of-24hr-observation-18-february-2024-12-00-am"
   },
   {
-    "date": "Feb 19, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Feb 19, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1820,19 +1797,20 @@
     },
     "crater_glow": "Obscured",
     "sulfur_dioxide": {
-      "date": "Feb 10, 2024",
-      "count": {
-        "metric_tons": 1875,
-        "kilograms": 1875000
+      "observation_date": "Feb 10, 2024",
+      "counts": {
+        "metric_tons": 1875
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Short-term inflation of the edifice",
     "alert_level": {
@@ -1842,10 +1820,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22955-mayon-volcano-summary-of-24hr-observation-19-february-2024-12-00-am"
   },
   {
-    "date": "Feb 20, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Feb 20, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1855,14 +1833,13 @@
     },
     "crater_glow": "Faint (visible via telescope only)",
     "sulfur_dioxide": {
-      "date": "Feb 19, 2024",
-      "count": {
-        "metric_tons": 819,
-        "kilograms": 819000
+      "observation_date": "Feb 19, 2024",
+      "counts": {
+        "metric_tons": 819
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -1879,10 +1856,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/22981-mayon-volcano-summary-of-24hr-observation-20-february-2024-12-00-am"
   },
   {
-    "date": "Feb 21, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Feb 21, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1892,14 +1869,13 @@
     },
     "crater_glow": "Faint (visible via telescope only)",
     "sulfur_dioxide": {
-      "date": "Feb 20, 2024",
-      "count": {
-        "metric_tons": 597,
-        "kilograms": 597000
+      "observation_date": "Feb 20, 2024",
+      "counts": {
+        "metric_tons": 597
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -1917,10 +1893,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/23003-mayon-volcano-summary-of-24hr-observation-21-february-2024-12-00-am"
   },
   {
-    "date": "Feb 22, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Feb 22, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1930,14 +1906,13 @@
     },
     "crater_glow": "Faint (visible via telescope only)",
     "sulfur_dioxide": {
-      "date": "Feb 21, 2024",
-      "count": {
-        "metric_tons": 845,
-        "kilograms": 845000
+      "observation_date": "Feb 21, 2024",
+      "counts": {
+        "metric_tons": 845
       }
     },
-    "plume": {
-      "emission": "Weak",
+    "plume_emission": {
+      "intensity": "Weak",
       "height": {
         "meters": null,
         "feet": null
@@ -1954,10 +1929,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/23019-mayon-volcano-summary-of-24hr-observation-22-february-2024-12-00-am"
   },
   {
-    "date": "Feb 23, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Feb 23, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -1967,14 +1942,13 @@
     },
     "crater_glow": "Faint (visible via telescope only)",
     "sulfur_dioxide": {
-      "date": "Feb 21, 2024",
-      "count": {
-        "metric_tons": 845,
-        "kilograms": 845000
+      "observation_date": "Feb 21, 2024",
+      "counts": {
+        "metric_tons": 845
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -1992,10 +1966,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/23041-mayon-volcano-summary-of-24hr-observation-23-february-2024-12-00-am"
   },
   {
-    "date": "Feb 24, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Feb 24, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -2005,14 +1979,13 @@
     },
     "crater_glow": "Obscured",
     "sulfur_dioxide": {
-      "date": "Feb 21, 2024",
-      "count": {
-        "metric_tons": 845,
-        "kilograms": 845000
+      "observation_date": "Feb 21, 2024",
+      "counts": {
+        "metric_tons": 845
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -2030,10 +2003,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/23059-mayon-volcano-summary-of-24hr-observation-24-february-2024-12-00-am"
   },
   {
-    "date": "Feb 25, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Feb 25, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -2043,19 +2016,20 @@
     },
     "crater_glow": "Obscured",
     "sulfur_dioxide": {
-      "date": "Feb 21, 2024",
-      "count": {
-        "metric_tons": 845,
-        "kilograms": 845000
+      "observation_date": "Feb 21, 2024",
+      "counts": {
+        "metric_tons": 845
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Short-term inflation of the edifice",
     "alert_level": {
@@ -2065,10 +2039,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/23075-mayon-volcano-summary-of-24hr-observation-25-february-2024-12-00-am"
   },
   {
-    "date": "Feb 26, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Feb 26, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -2078,19 +2052,20 @@
     },
     "crater_glow": "Faint (visible via telescope only)",
     "sulfur_dioxide": {
-      "date": "Feb 21, 2024",
-      "count": {
-        "metric_tons": 845,
-        "kilograms": 845000
+      "observation_date": "Feb 21, 2024",
+      "counts": {
+        "metric_tons": 845
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Short-term inflation of the edifice",
     "alert_level": {
@@ -2100,10 +2075,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/23091-mayon-volcano-summary-of-24hr-observation-26-february-2024-12-00-am"
   },
   {
-    "date": "Feb 27, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Feb 27, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -2113,14 +2088,13 @@
     },
     "crater_glow": "Faint (visible via telescope only)",
     "sulfur_dioxide": {
-      "date": "Feb 26, 2024",
-      "count": {
-        "metric_tons": 1092,
-        "kilograms": 1092000
+      "observation_date": "Feb 26, 2024",
+      "counts": {
+        "metric_tons": 1092
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -2137,10 +2111,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/23111-mayon-volcano-summary-of-24hr-observation-27-february-2024-12-00-am"
   },
   {
-    "date": "Feb 28, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Feb 28, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -2150,19 +2124,20 @@
     },
     "crater_glow": "Obscured",
     "sulfur_dioxide": {
-      "date": "Feb 26, 2024",
-      "count": {
-        "metric_tons": 1092,
-        "kilograms": 1092000
+      "observation_date": "Feb 26, 2024",
+      "counts": {
+        "metric_tons": 1092
       }
     },
-    "plume": {
-      "emission": "Obscured",
+    "plume_emission": {
+      "intensity": "Obscured",
       "height": {
         "meters": "Obscured",
         "feet": null
       },
-      "drift_direction": null
+      "drift_direction": [
+        "null"
+      ]
     },
     "ground_deformation": "Short-term inflation of the edifice",
     "alert_level": {
@@ -2172,10 +2147,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/23127-mayon-volcano-summary-of-24hr-observation-28-february-2024-12-00-am"
   },
   {
-    "date": "Feb 29, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Feb 29, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -2185,14 +2160,13 @@
     },
     "crater_glow": "Faint (visible via telescope only)",
     "sulfur_dioxide": {
-      "date": "Feb 26, 2024",
-      "count": {
-        "metric_tons": 1092,
-        "kilograms": 1092000
+      "observation_date": "Feb 26, 2024",
+      "counts": {
+        "metric_tons": 1092
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -2209,10 +2183,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/23143-mayon-volcano-summary-of-24hr-observation-29-february-2024-12-00-am"
   },
   {
-    "date": "Mar 1, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Mar 1, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -2222,14 +2196,13 @@
     },
     "crater_glow": "Faint (visible via telescope only)",
     "sulfur_dioxide": {
-      "date": "Feb 26, 2024",
-      "count": {
-        "metric_tons": 1092,
-        "kilograms": 1092000
+      "observation_date": "Feb 26, 2024",
+      "counts": {
+        "metric_tons": 1092
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -2246,10 +2219,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/23171-mayon-volcano-summary-of-24hr-observation-01-march-2024-12-00-am"
   },
   {
-    "date": "Mar 2, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Mar 2, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -2259,14 +2232,13 @@
     },
     "crater_glow": "Faint (visible via telescope only)",
     "sulfur_dioxide": {
-      "date": "Feb 26, 2024",
-      "count": {
-        "metric_tons": 1092,
-        "kilograms": 1092000
+      "observation_date": "Feb 26, 2024",
+      "counts": {
+        "metric_tons": 1092
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": null,
         "feet": null
@@ -2284,10 +2256,10 @@
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/23189-mayon-volcano-summary-of-24hr-observation-02-march-2024-12-00-am"
   },
   {
-    "date": "Mar 3, 2024",
-    "observation_period": "12AM - 12 AM",
+    "observation_date": "Mar 3, 2024",
+    "observation_period": "12AM - 12AM",
     "eruption": {
-      "count": 0,
+      "counts": 0,
       "type": null,
       "duration_in_seconds": null
     },
@@ -2297,17 +2269,16 @@
     },
     "crater_glow": "Faint (visible via telescope only)",
     "sulfur_dioxide": {
-      "date": "Feb 26, 2024",
-      "count": {
-        "metric_tons": 1092,
-        "kilograms": 1092000
+      "observation_date": "Feb 26, 2024",
+      "counts": {
+        "metric_tons": 1092
       }
     },
-    "plume": {
-      "emission": "Moderate",
+    "plume_emission": {
+      "intensity": "Moderate",
       "height": {
         "meters": 200,
-        "feet": 656.2
+        "feet": 656
       },
       "drift_direction": [
         "East-Southeast. South-Southwest",
@@ -2320,5 +2291,42 @@
       "remarks": "Decreased Unrest"
     },
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/23205-mayon-volcano-summary-of-24hr-observation-03-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 4, 2024",
+    "observation_period": "12AM - 12AM",
+    "eruption": {
+      "counts": 0,
+      "type": null,
+      "duration_in_seconds": null
+    },
+    "seismicity": {
+      "volcanic_earthquakes": 0,
+      "rockfall_events": 0
+    },
+    "crater_glow": "Faint (visible via telescope only)",
+    "sulfur_dioxide": {
+      "observation_date": "Feb 26, 2024",
+      "counts": {
+        "metric_tons": 1092
+      }
+    },
+    "plume_emission": {
+      "intensity": "Moderate",
+      "height": {
+        "meters": null,
+        "feet": null
+      },
+      "drift_direction": [
+        "West",
+        "West-Southwest"
+      ]
+    },
+    "ground_deformation": "Short-term inflation of the edifice",
+    "alert_level": {
+      "level": 2,
+      "remarks": "Decreased Unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/23221-mayon-volcano-summary-of-24hr-observation-04-march-2024-12-00-am"
   }
 ]
