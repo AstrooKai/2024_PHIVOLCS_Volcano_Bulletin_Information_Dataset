@@ -1919,5 +1919,35 @@
       "remarks": "Low-level Unrest"
     },
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/23213-bulusan-volcano-summary-of-24hr-observation-04-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 5, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 2,
+      "rockfall_events": 0
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Feb 23, 2024",
+      "counts": {
+        "metric_tons": 46
+      }
+    },
+    "plume_emission": {
+      "intensity": "Moderate",
+      "height": {
+        "meters": null,
+        "feet": null
+      },
+      "drift_direction": [
+        "null"
+      ]
+    },
+    "ground_deformation": "Volcano edifice is inflated",
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level Unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/23229-bulusan-volcano-summary-of-24hr-observation-05-march-2024-12-00-am"
   }
 ]

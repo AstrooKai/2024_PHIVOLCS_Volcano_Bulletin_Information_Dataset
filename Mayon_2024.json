@@ -2328,5 +2328,41 @@
       "remarks": "Decreased Unrest"
     },
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/23221-mayon-volcano-summary-of-24hr-observation-04-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 5, 2024",
+    "observation_period": "12AM - 12AM",
+    "eruption": {
+      "counts": 0,
+      "type": null,
+      "duration_in_seconds": null
+    },
+    "seismicity": {
+      "volcanic_earthquakes": 1,
+      "rockfall_events": 0
+    },
+    "crater_glow": "Faint (visible via telescope only)",
+    "sulfur_dioxide": {
+      "observation_date": "Feb 26, 2024",
+      "counts": {
+        "metric_tons": 1092
+      }
+    },
+    "plume_emission": {
+      "intensity": "Moderate",
+      "height": {
+        "meters": null,
+        "feet": null
+      },
+      "drift_direction": [
+        "null"
+      ]
+    },
+    "ground_deformation": "Short-term inflation of the edifice",
+    "alert_level": {
+      "level": 2,
+      "remarks": "Decreased Unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/23237-mayon-volcano-summary-of-24hr-observation-05-march-2024-12-00-am"
   }
 ]
