@@ -2364,5 +2364,81 @@
       "remarks": "Decreased Unrest"
     },
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/23237-mayon-volcano-summary-of-24hr-observation-05-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 6, 2024",
+    "observation_period": "12AM - 12AM",
+    "eruption": {
+      "counts": 0,
+      "type": null,
+      "duration_in_seconds": null
+    },
+    "seismicity": {
+      "volcanic_earthquakes": 2,
+      "rockfall_events": 0
+    },
+    "crater_glow": "Faint (visible via telescope only)",
+    "sulfur_dioxide": {
+      "observation_date": "Mar 5, 2024",
+      "counts": {
+        "metric_tons": 420
+      }
+    },
+    "plume_emission": {
+      "intensity": "Moderate",
+      "height": {
+        "meters": 250,
+        "feet": 820
+      },
+      "drift_direction": [
+        "North-Northeast",
+        "North-Northwest",
+        "Northeast"
+      ]
+    },
+    "ground_deformation": "Short-term inflation of the edifice",
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-Level Unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/23259-mayon-volcano-summary-of-24hr-observation-06-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 7, 2024",
+    "observation_period": "12AM - 12AM",
+    "eruption": {
+      "counts": 0,
+      "type": null,
+      "duration_in_seconds": null
+    },
+    "seismicity": {
+      "volcanic_earthquakes": 0,
+      "rockfall_events": 0
+    },
+    "crater_glow": "Faint (visible via telescope only)",
+    "sulfur_dioxide": {
+      "observation_date": "Mar 6, 2024",
+      "counts": {
+        "metric_tons": 648
+      }
+    },
+    "plume_emission": {
+      "intensity": "Moderate",
+      "height": {
+        "meters": 600,
+        "feet": 1969
+      },
+      "drift_direction": [
+        "East-Northeast",
+        "North-Northeast",
+        "General West"
+      ]
+    },
+    "ground_deformation": "Short-term inflation of the edifice",
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-Level Unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/mayon-volcano/23275-mayon-volcano-summary-of-24hr-observation-07-march-2024-12-00-am"
   }
 ]

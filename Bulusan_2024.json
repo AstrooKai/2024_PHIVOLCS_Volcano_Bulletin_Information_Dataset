@@ -1928,7 +1928,7 @@
       "rockfall_events": 0
     },
     "sulfur_dioxide": {
-      "observation_date": "Feb 23, 2024",
+      "observation_date": "Feb 22, 2024",
       "counts": {
         "metric_tons": 46
       }
@@ -1949,5 +1949,67 @@
       "remarks": "Low-level Unrest"
     },
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/23229-bulusan-volcano-summary-of-24hr-observation-05-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 6, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 0,
+      "rockfall_events": 0
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Feb 22, 2024",
+      "counts": {
+        "metric_tons": 46
+      }
+    },
+    "plume_emission": {
+      "intensity": "Moderate",
+      "height": {
+        "meters": 150,
+        "feet": 492
+      },
+      "drift_direction": [
+        "Northeast",
+        "West-Northwest"
+      ]
+    },
+    "ground_deformation": "Volcano edifice is inflated",
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level Unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/23251-bulusan-volcano-summary-of-24hr-observation-06-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 7, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 3,
+      "rockfall_events": 0
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Feb 22, 2024",
+      "counts": {
+        "metric_tons": 46
+      }
+    },
+    "plume_emission": {
+      "intensity": "Moderate",
+      "height": {
+        "meters": 100,
+        "feet": 328
+      },
+      "drift_direction": [
+        "West-Southwest",
+        "Southeast"
+      ]
+    },
+    "ground_deformation": "Volcano edifice is inflated",
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level Unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/bulusan-volcano/23267-bulusan-volcano-summary-of-24hr-observation-07-march-2024-12-00-am"
   }
 ]
