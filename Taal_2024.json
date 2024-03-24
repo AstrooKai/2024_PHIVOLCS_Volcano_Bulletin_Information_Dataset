@@ -1219,7 +1219,7 @@
         "metric_tons": "15,145",
         "kilograms": 15145000
       },
-      "main_crater_lake_upwelling": "None",
+      "main_crater_lake_upwelling": null,
       "vog_observed": "FALSE"
     },
     "plume_emission": {
@@ -3176,5 +3176,698 @@
       "remarks": "Low-level unrest"
     },
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23319-taal-volcano-summary-of-24hr-observation-09-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 10, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 0,
+      "volcanic_tremors": 1,
+      "volcanic_tremors_duration": "4 minutes"
+    },
+    "main_crater_lake": {
+      "observation_date": "Feb 20, 2024",
+      "acidity": 0.2,
+      "temperature": {
+        "celcius": 72.7,
+        "fahrenheit": 162.86,
+        "kelvin": 346
+      }
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 7, 2024",
+      "counts": {
+        "metric_tons": "5,911",
+        "kilograms": 5911000
+      },
+      "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids",
+      "vog_observed": "FALSE"
+    },
+    "plume_emission": {
+      "intensity": "Moderate",
+      "height": {
+        "meters": 900,
+        "feet": 2953
+      },
+      "drift_direction": [
+        "Southwest"
+      ]
+    },
+    "ground_deformation": {
+      "taal_caldera": "Long-term deflation",
+      "taal_volcano_island": "Short-term inflation of the general northern and southeastern flanks"
+    },
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23335-taal-volcano-summary-of-24hr-observation-10-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 11, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 0,
+      "volcanic_tremors": 0,
+      "volcanic_tremors_duration": null
+    },
+    "main_crater_lake": {
+      "observation_date": "Feb 20, 2024",
+      "acidity": 0.2,
+      "temperature": {
+        "celcius": 72.7,
+        "fahrenheit": 162.86,
+        "kelvin": 346
+      }
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 7, 2024",
+      "counts": {
+        "metric_tons": "5,911",
+        "kilograms": 5911000
+      },
+      "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids",
+      "vog_observed": "FALSE"
+    },
+    "plume_emission": {
+      "intensity": "Weak",
+      "height": {
+        "meters": 300,
+        "feet": 984
+      },
+      "drift_direction": [
+        "Southwest"
+      ]
+    },
+    "ground_deformation": {
+      "taal_caldera": "Long-term deflation",
+      "taal_volcano_island": "Short-term inflation of the general northern and southeastern flanks"
+    },
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23351-taal-volcano-summary-of-24hr-observation-11-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 12, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 0,
+      "volcanic_tremors": 1,
+      "volcanic_tremors_duration": "2 minutes"
+    },
+    "main_crater_lake": {
+      "observation_date": "Feb 20, 2024",
+      "acidity": 0.2,
+      "temperature": {
+        "celcius": 72.7,
+        "fahrenheit": 162.86,
+        "kelvin": 346
+      }
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 11, 2024",
+      "counts": {
+        "metric_tons": "6,837",
+        "kilograms": 6837000
+      },
+      "main_crater_lake_upwelling": null,
+      "vog_observed": "FALSE"
+    },
+    "plume_emission": {
+      "intensity": "Moderate",
+      "height": {
+        "meters": "1,200",
+        "feet": 3937
+      },
+      "drift_direction": [
+        "Southwest"
+      ]
+    },
+    "ground_deformation": {
+      "taal_caldera": "Long-term deflation",
+      "taal_volcano_island": "Short-term inflation of the general northern and southeastern flanks"
+    },
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23367-taal-volcano-summary-of-24hr-observation-12-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 13, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 0,
+      "volcanic_tremors": 0,
+      "volcanic_tremors_duration": null
+    },
+    "main_crater_lake": {
+      "observation_date": "Feb 20, 2024",
+      "acidity": 0.2,
+      "temperature": {
+        "celcius": 72.7,
+        "fahrenheit": 162.86,
+        "kelvin": 346
+      }
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 11, 2024",
+      "counts": {
+        "metric_tons": "6,837",
+        "kilograms": 6837000
+      },
+      "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids",
+      "vog_observed": "TRUE"
+    },
+    "plume_emission": {
+      "intensity": "Moderate",
+      "height": {
+        "meters": "1,200",
+        "feet": 3937
+      },
+      "drift_direction": [
+        "Southwest",
+        "North-Northwest"
+      ]
+    },
+    "ground_deformation": {
+      "taal_caldera": "Long-term deflation",
+      "taal_volcano_island": "Short-term inflation of the general northern and southeastern flanks"
+    },
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23387-taal-volcano-summary-of-24hr-observation-13-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 14, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 0,
+      "volcanic_tremors": 0,
+      "volcanic_tremors_duration": null
+    },
+    "main_crater_lake": {
+      "observation_date": "Feb 20, 2024",
+      "acidity": 0.2,
+      "temperature": {
+        "celcius": 72.7,
+        "fahrenheit": 162.86,
+        "kelvin": 346
+      }
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 13, 2024",
+      "counts": {
+        "metric_tons": "4,532",
+        "kilograms": 4532000
+      },
+      "main_crater_lake_upwelling": null,
+      "vog_observed": "FALSE"
+    },
+    "plume_emission": {
+      "intensity": "Moderate",
+      "height": {
+        "meters": 900,
+        "feet": 2953
+      },
+      "drift_direction": [
+        "South-Southwest"
+      ]
+    },
+    "ground_deformation": {
+      "taal_caldera": "Long-term deflation",
+      "taal_volcano_island": "Short-term inflation of the general northern and southeastern flanks"
+    },
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23403-taal-volcano-summary-of-24hr-observation-14-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 15, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 5,
+      "volcanic_tremors": 3,
+      "volcanic_tremors_duration": "3 minutes"
+    },
+    "main_crater_lake": {
+      "observation_date": "Feb 20, 2024",
+      "acidity": 0.2,
+      "temperature": {
+        "celcius": 72.7,
+        "fahrenheit": 162.86,
+        "kelvin": 346
+      }
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 14, 2024",
+      "counts": {
+        "metric_tons": "13,991",
+        "kilograms": 13991000
+      },
+      "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids",
+      "vog_observed": "FALSE"
+    },
+    "plume_emission": {
+      "intensity": "Voluminous",
+      "height": {
+        "meters": "1,200",
+        "feet": 3937
+      },
+      "drift_direction": [
+        "Southwest",
+        "North-Northwest"
+      ]
+    },
+    "ground_deformation": {
+      "taal_caldera": "Long-term deflation",
+      "taal_volcano_island": "Short-term inflation of the general northern and southeastern flanks"
+    },
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23419-taal-volcano-summary-of-24hr-observation-15-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 16, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 0,
+      "volcanic_tremors": 0,
+      "volcanic_tremors_duration": null
+    },
+    "main_crater_lake": {
+      "observation_date": "Feb 20, 2024",
+      "acidity": 0.2,
+      "temperature": {
+        "celcius": 72.7,
+        "fahrenheit": 162.86,
+        "kelvin": 346
+      }
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 14, 2024",
+      "counts": {
+        "metric_tons": "13,991",
+        "kilograms": 13991000
+      },
+      "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids",
+      "vog_observed": "FALSE"
+    },
+    "plume_emission": {
+      "intensity": "Moderate",
+      "height": {
+        "meters": 900,
+        "feet": 2953
+      },
+      "drift_direction": [
+        "West-Southwest",
+        "Southwest"
+      ]
+    },
+    "ground_deformation": {
+      "taal_caldera": "Long-term deflation",
+      "taal_volcano_island": "Short-term inflation of the general northern and southeastern flanks"
+    },
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23443-taal-volcano-summary-of-24hr-observation-16-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 17, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 0,
+      "volcanic_tremors": 2,
+      "volcanic_tremors_duration": "2-3 minutes"
+    },
+    "main_crater_lake": {
+      "observation_date": "Feb 20, 2024",
+      "acidity": 0.2,
+      "temperature": {
+        "celcius": 72.7,
+        "fahrenheit": 162.86,
+        "kelvin": 346
+      }
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 16, 2024",
+      "counts": {
+        "metric_tons": "10,561",
+        "kilograms": 10561000
+      },
+      "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids",
+      "vog_observed": "FALSE"
+    },
+    "plume_emission": {
+      "intensity": "Moderate",
+      "height": {
+        "meters": "1,200",
+        "feet": 3937
+      },
+      "drift_direction": [
+        "Southwest"
+      ]
+    },
+    "ground_deformation": {
+      "taal_caldera": "Long-term deflation",
+      "taal_volcano_island": "Short-term inflation of the general northern and southeastern flanks"
+    },
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23459-taal-volcano-summary-of-24hr-observation-17-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 18, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 0,
+      "volcanic_tremors": 1,
+      "volcanic_tremors_duration": "2-3 minutes"
+    },
+    "main_crater_lake": {
+      "observation_date": "Feb 20, 2024",
+      "acidity": 0.2,
+      "temperature": {
+        "celcius": 72.7,
+        "fahrenheit": 162.86,
+        "kelvin": 346
+      }
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 16, 2024",
+      "counts": {
+        "metric_tons": "10,561",
+        "kilograms": 10561000
+      },
+      "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids",
+      "vog_observed": "FALSE"
+    },
+    "plume_emission": {
+      "intensity": "Weak",
+      "height": {
+        "meters": 900,
+        "feet": 2953
+      },
+      "drift_direction": [
+        "Southwest"
+      ]
+    },
+    "ground_deformation": {
+      "taal_caldera": "Long-term deflation",
+      "taal_volcano_island": "Short-term inflation of the general northern and southeastern flanks"
+    },
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23475-taal-volcano-summary-of-24hr-observation-18-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 19, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 0,
+      "volcanic_tremors": 0,
+      "volcanic_tremors_duration": null
+    },
+    "main_crater_lake": {
+      "observation_date": "Feb 20, 2024",
+      "acidity": 0.2,
+      "temperature": {
+        "celcius": 72.7,
+        "fahrenheit": 162.86,
+        "kelvin": 346
+      }
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 18, 2024",
+      "counts": {
+        "metric_tons": "6,102",
+        "kilograms": 6102000
+      },
+      "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids",
+      "vog_observed": "FALSE"
+    },
+    "plume_emission": {
+      "intensity": "Weak",
+      "height": {
+        "meters": 900,
+        "feet": 2953
+      },
+      "drift_direction": [
+        "Southwest"
+      ]
+    },
+    "ground_deformation": {
+      "taal_caldera": "Long-term deflation",
+      "taal_volcano_island": "Short-term inflation of the general northern and southeastern flanks"
+    },
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23495-taal-volcano-summary-of-24hr-observation-19-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 20, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 0,
+      "volcanic_tremors": 0,
+      "volcanic_tremors_duration": null
+    },
+    "main_crater_lake": {
+      "observation_date": "Feb 20, 2024",
+      "acidity": 0.2,
+      "temperature": {
+        "celcius": 72.7,
+        "fahrenheit": 162.86,
+        "kelvin": 346
+      }
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 18, 2024",
+      "counts": {
+        "metric_tons": "6,102",
+        "kilograms": 6102000
+      },
+      "main_crater_lake_upwelling": null,
+      "vog_observed": "FALSE"
+    },
+    "plume_emission": {
+      "intensity": "Voluminous",
+      "height": {
+        "meters": "1,800",
+        "feet": 5906
+      },
+      "drift_direction": [
+        "Southwest"
+      ]
+    },
+    "ground_deformation": {
+      "taal_caldera": "Long-term deflation",
+      "taal_volcano_island": "Short-term inflation of the general northern and southeastern flanks"
+    },
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23501-taal-volcano-summary-of-24hr-observation-20-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 21, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 0,
+      "volcanic_tremors": 0,
+      "volcanic_tremors_duration": null
+    },
+    "main_crater_lake": {
+      "observation_date": "Feb 20, 2024",
+      "acidity": 0.2,
+      "temperature": {
+        "celcius": 72.7,
+        "fahrenheit": 162.86,
+        "kelvin": 346
+      }
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 18, 2024",
+      "counts": {
+        "metric_tons": "6,102",
+        "kilograms": 6102000
+      },
+      "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids",
+      "vog_observed": "FALSE"
+    },
+    "plume_emission": {
+      "intensity": "Moderate",
+      "height": {
+        "meters": 750,
+        "feet": 2461
+      },
+      "drift_direction": [
+        "Southwest"
+      ]
+    },
+    "ground_deformation": {
+      "taal_caldera": "Long-term deflation",
+      "taal_volcano_island": "Short-term inflation of the general northern and southeastern flanks"
+    },
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23535-taal-volcano-summary-of-24hr-observation-21-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 22, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 0,
+      "volcanic_tremors": 0,
+      "volcanic_tremors_duration": null
+    },
+    "main_crater_lake": {
+      "observation_date": "Feb 20, 2024",
+      "acidity": 0.2,
+      "temperature": {
+        "celcius": 72.7,
+        "fahrenheit": 162.86,
+        "kelvin": 346
+      }
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 18, 2024",
+      "counts": {
+        "metric_tons": "6,102",
+        "kilograms": 6102000
+      },
+      "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids",
+      "vog_observed": "FALSE"
+    },
+    "plume_emission": {
+      "intensity": "Voluminous",
+      "height": {
+        "meters": "1,200",
+        "feet": 3937
+      },
+      "drift_direction": [
+        "Southwest"
+      ]
+    },
+    "ground_deformation": {
+      "taal_caldera": "Long-term deflation",
+      "taal_volcano_island": "Short-term inflation of the general northern and southeastern flanks"
+    },
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23559-taal-volcano-summary-of-24hr-observation-22-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 23, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 0,
+      "volcanic_tremors": 2,
+      "volcanic_tremors_duration": "2-3 minutes"
+    },
+    "main_crater_lake": {
+      "observation_date": "Feb 20, 2024",
+      "acidity": 0.2,
+      "temperature": {
+        "celcius": 72.7,
+        "fahrenheit": 162.86,
+        "kelvin": 346
+      }
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 18, 2024",
+      "counts": {
+        "metric_tons": "6,102",
+        "kilograms": 6102000
+      },
+      "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids",
+      "vog_observed": "FALSE"
+    },
+    "plume_emission": {
+      "intensity": "Moderate",
+      "height": {
+        "meters": 900,
+        "feet": 2953
+      },
+      "drift_direction": [
+        "Southwest"
+      ]
+    },
+    "ground_deformation": {
+      "taal_caldera": "Long-term deflation",
+      "taal_volcano_island": "Short-term inflation of the general northern and southeastern flanks"
+    },
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23585-taal-volcano-summary-of-24hr-observation-23-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 24, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 0,
+      "volcanic_tremors": 0,
+      "volcanic_tremors_duration": null
+    },
+    "main_crater_lake": {
+      "observation_date": "Feb 20, 2024",
+      "acidity": 0.2,
+      "temperature": {
+        "celcius": 72.7,
+        "fahrenheit": 162.86,
+        "kelvin": 346
+      }
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 23, 2024",
+      "counts": {
+        "metric_tons": "14,287",
+        "kilograms": 14287000
+      },
+      "main_crater_lake_upwelling": "Observed upwelling of hot volcanic fluids",
+      "vog_observed": "FALSE"
+    },
+    "plume_emission": {
+      "intensity": "Moderate",
+      "height": {
+        "meters": "1,200",
+        "feet": 3937
+      },
+      "drift_direction": [
+        "Southwest"
+      ]
+    },
+    "ground_deformation": {
+      "taal_caldera": "Long-term deflation",
+      "taal_volcano_island": "Short-term inflation of the general northern and southeastern flanks"
+    },
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/taal-volcano/23607-taal-volcano-summary-of-24hr-observation-24-march-2024-12-00-am"
   }
 ]
