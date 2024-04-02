@@ -2525,5 +2525,278 @@
       "remarks": "Low-level Unrest"
     },
     "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/kanlaon-volcano/23599-kanlaon-volcano-summary-of-24hr-observation-24-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 25, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 3,
+      "rockfall_events": 0
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 20, 2024",
+      "counts": {
+        "metric_tons": 725
+      }
+    },
+    "plume_emission": {
+      "intensity": "Obscured",
+      "height": {
+        "meters": "Obscured",
+        "feet": null
+      },
+      "drift_direction": [
+        "null"
+      ]
+    },
+    "ground_deformation": "Volcano edifice is inflated",
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level Unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/kanlaon-volcano/23615-kanlaon-volcano-summary-of-24hr-observation-25-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 26, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 2,
+      "rockfall_events": 0
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 25, 2024",
+      "counts": {
+        "metric_tons": "1,328"
+      }
+    },
+    "plume_emission": {
+      "intensity": "Weak",
+      "height": {
+        "meters": 50,
+        "feet": 164
+      },
+      "drift_direction": [
+        "Northeast"
+      ]
+    },
+    "ground_deformation": "Volcano edifice is inflated",
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level Unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/kanlaon-volcano/23633-kanlaon-volcano-summary-of-24hr-observation-26-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 27, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 7,
+      "rockfall_events": 0
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 25, 2024",
+      "counts": {
+        "metric_tons": "1,328"
+      }
+    },
+    "plume_emission": {
+      "intensity": "Weak",
+      "height": {
+        "meters": 100,
+        "feet": 328
+      },
+      "drift_direction": [
+        "Southwest"
+      ]
+    },
+    "ground_deformation": "Volcano edifice is inflated",
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level Unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/kanlaon-volcano/23653-kanlaon-volcano-summary-of-24hr-observation-27-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 28, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 7,
+      "rockfall_events": 0
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 25, 2024",
+      "counts": {
+        "metric_tons": "1,328"
+      }
+    },
+    "plume_emission": {
+      "intensity": "Weak",
+      "height": {
+        "meters": 100,
+        "feet": 328
+      },
+      "drift_direction": [
+        "Northeast"
+      ]
+    },
+    "ground_deformation": "Volcano edifice is inflated",
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level Unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/kanlaon-volcano/23673-kanlaon-volcano-summary-of-24hr-observation-28-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 29, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 14,
+      "rockfall_events": 0
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 28, 2024",
+      "counts": {
+        "metric_tons": "1,418"
+      }
+    },
+    "plume_emission": {
+      "intensity": "Moderate",
+      "height": {
+        "meters": 100,
+        "feet": 328
+      },
+      "drift_direction": [
+        "Northwest"
+      ]
+    },
+    "ground_deformation": "Volcano edifice is inflated",
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level Unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/kanlaon-volcano/23691-kanlaon-volcano-summary-of-24hr-observation-29-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 30, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 2,
+      "rockfall_events": 0
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 28, 2024",
+      "counts": {
+        "metric_tons": "1,418"
+      }
+    },
+    "plume_emission": {
+      "intensity": "Moderate",
+      "height": {
+        "meters": 400,
+        "feet": 1312
+      },
+      "drift_direction": [
+        "Northwest",
+        "Southwest"
+      ]
+    },
+    "ground_deformation": "Volcano edifice is inflated",
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level Unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/kanlaon-volcano/23707-kanlaon-volcano-summary-of-24hr-observation-30-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Mar 31, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 2,
+      "rockfall_events": 0
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 28, 2024",
+      "counts": {
+        "metric_tons": "1,418"
+      }
+    },
+    "plume_emission": {
+      "intensity": "Moderate",
+      "height": {
+        "meters": 300,
+        "feet": 984
+      },
+      "drift_direction": [
+        "Southwest",
+        "Northwest"
+      ]
+    },
+    "ground_deformation": "Volcano edifice is inflated",
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level Unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/kanlaon-volcano/23723-kanlaon-volcano-summary-of-24hr-observation-31-march-2024-12-00-am"
+  },
+  {
+    "observation_date": "Apr 1, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 5,
+      "rockfall_events": 0
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 31, 2024",
+      "counts": {
+        "metric_tons": "1,697"
+      }
+    },
+    "plume_emission": {
+      "intensity": "Moderate",
+      "height": {
+        "meters": 200,
+        "feet": 656
+      },
+      "drift_direction": [
+        "South"
+      ]
+    },
+    "ground_deformation": "Volcano edifice is inflated",
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level Unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/kanlaon-volcano/23739-kanlaon-volcano-summary-of-24hr-observation-01-april-2024-12-00-am"
+  },
+  {
+    "observation_date": "Apr 2, 2024",
+    "observation_period": "12AM - 12AM",
+    "seismicity": {
+      "volcanic_earthquakes": 2,
+      "rockfall_events": 0
+    },
+    "sulfur_dioxide": {
+      "observation_date": "Mar 31, 2024",
+      "counts": {
+        "metric_tons": "1,697"
+      }
+    },
+    "plume_emission": {
+      "intensity": "Moderate",
+      "height": {
+        "meters": 500,
+        "feet": 1641
+      },
+      "drift_direction": [
+        "West",
+        "South"
+      ]
+    },
+    "ground_deformation": "Volcano edifice is inflated",
+    "alert_level": {
+      "level": 1,
+      "remarks": "Low-level Unrest"
+    },
+    "url": "https://phivolcs.dost.gov.ph/volcano-hazard/volcano-bulletin2/kanlaon-volcano/23755-kanlaon-volcano-summary-of-24hr-observation-02-april-2024-12-00-am"
   }
 ]
